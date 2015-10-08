@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'Merriweather-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:url('Merriweather-Bold.otf')format("opentype");
+}
+
+@font-face {
+    font-family: 'Merriweather-BoldItalic';
+    font-weight: bold;
+    font-style: italic;
+    src:url('Merriweather-BoldItalic.otf')format("opentype");
+}
+
 body{
     font-size:12pt;
     background: white;
