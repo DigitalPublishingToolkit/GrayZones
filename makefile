@@ -64,6 +64,21 @@ scribus: $(allmarkdown)
 	done
 
 
+
+
+html: $(allmarkdown)
+	for i in $(allmarkdown) ; \
+	do html=`basename $$i .md`.html ; \
+	./scripts/md_stripmetada.py $$i > md/tmp.md ; \
+	pandoc md/tmp.md \
+		--from=markdown \
+		--to=html \
+		—-css=html/main.css \
+		-o html/$$html ; \
+	done
+
+
+
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do ./scripts/md_stripmetada.py $$i >> md/book.md ; \
