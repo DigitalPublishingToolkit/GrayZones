@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Irmgard Emmelheinz
+Irmgard Emmelheinz
 
-# Neoliberalism and the Autonomy of Art: The Culture of Power, the Power of Culture[^07_1]
+## NEOLIBERALISM AND THE AUTONOMY OF ART: THE CULTURE OF POWER, THE POWER OF CULTURE[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_1]
 
 In Mexico, advanced neoliberal reforms are taking place at a much faster
 pace than in other parts of the world. These reforms have delivered not
@@ -84,7 +84,7 @@ tied to the fact that in our current world order, as Vishmidt and
 Stakemeier point out, “Art no longer designates a reproductive and
 representational realm, but one of productivity and social power” and
 thus the autonomy of art itself has become a problem – in so far as it
-has become a realm for the production of added value.[^07_2]
+has become a realm for the production of added value.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_2]
 
 In the September 2013 editorial of *e-flux journal*, the editors stated
 that art is produced at a double bind: while art can be complicit or
@@ -116,21 +116,21 @@ with everything else. Post-war art continued the vanguardist critique of
 the bourgeois notions of autonomous art and expressive artists,
 embracing everyday objects, transforming the artist’s function,
 questioning the institution of art or attacking it in the anarchist
-manner.[^07_3] Following Hal Foster, art from the 1950s and 1960s
+manner.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_3] Following Hal Foster, art from the 1950s and 1960s
 represents the failure to destroy the institution of art and the
-institutionalization of the avant-garde.[^07_4] If Greenberg advocated
+institutionalization of the avant-garde.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_4] If Greenberg advocated
 aesthetic autonomy with the purpose of resisting illustrational meanings
 prone to kitsch and commercial forces, post-modernist’s inter
 disciplinary strategies led art, in Foster’s words, “to become embedded
 into life under the terms of mass capitalism, while it became
-appropriated by the culture industry.”[^07_5] Due to its ‘post-medium’
+appropriated by the culture industry.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_5] Due to its ‘post-medium’
 condition, as Rosalind Krauss termed ‘postmodern interdisciplinarity,’
 art is enmeshed with reality, and its materials can range from social
 interaction, scientific research, montage, etc. With postmodernism, the
 politics of the autonomy of art meant breaking away from in Greenberg’s
 sense of purity and thus art’s autonomy came to be conceived as
 “provisional, always defined diacritically (as something supplemental to
-art) and situated politically, always *semi*.”[^07_6]
+art) and situated politically, always *semi*.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_6]
 
 Beyond postmodernism, parallel to the increase of corporate subsidy to
 the arts, there has been a recent boom in private collecting and thus a
@@ -142,11 +142,11 @@ public sector in order to subsidize them. In the past decade or so (and
 in the US long before that), corporations have played an important role
 in investing in culture, as institutions and corporations seek to play
 an important role in communicating the private sector point of view on
-an array of critical public topics.[^07_7] If art was previously supported
+an array of critical public topics.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_7] If art was previously supported
 by the state, because culture was considered to be an asset to the
 nation, today, corporations have appropriated this function, as they
 sponsor and jury art shows, grant awards and funds and collect artworks.
-Meanwhile, they promote their perspective on critical public topics.[^07_8]
+Meanwhile, they promote their perspective on critical public topics.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_8]
 In a 1998 article, art historian Chin-tao Wu highlighted how
 corporations appropriated the concept of innovation – also known as
 innovative disruption or creative destruction – in order to redefine its
@@ -154,11 +154,11 @@ meaning in corporate terms. She quotes Philip Morris Inc.’s – the U.S.
 cigarette company – executive vice-president, John Murphy, on their
 sponsorship of the 1969 exhibition, *When Attitudes Become Form*:
 
-> …We feel it is appropriate that we participate in bringing these works
-> to the attention of the public, for there is a key element in this
-> ‘new art’ which has its counterpart in the business world. That
-> element is *innovation* – without which it would be impossible for
-> progress to be made in any segment in society.[^07_9]
+…We feel it is appropriate that we participate in bringing these works
+to the attention of the public, for there is a key element in this ‘new
+art’ which has its counterpart in the business world. That element is
+*innovation* – without which it would be impossible for progress to be
+made in any segment in society.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_9]
 
 Furthermore, in the context of neoliberal reforms and sensibility, there
 is a global tendency to subdue contemporary art to the politics of
@@ -176,7 +176,7 @@ International,” a project developed in Queens (2011), New York, which
 the artist describes as: a flexible community space and long-term
 socio-political movement, public workshops, events, actions and
 partnerships with immigrant and service organizations; the artist
-further qualified her project as “useful art.”[^07_10] The problem is that
+further qualified her project as “useful art.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_10] The problem is that
 initiatives such as this one, render opaque the real economic conditions
 that led to situations of immigrant precarity to begin with: immigrants
 are local signs of complex global forces operating on their conditions
@@ -186,14 +186,14 @@ work funded by the private sector. In regards to this, politics comes
 into the scene through art as social work in the name of ‘public
 interest,’ only to become subject to administration, engineering and a
 technocratic way of administering social problems, configuring the
-private version of the welfare state.[^07_11] Furthermore, as the corporate
+private version of the welfare state.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_11] Furthermore, as the corporate
 support to the establishment of antagonistic spaces becomes gradually
 institutionalized within society, the question rises, after Gregory
 Sholette , “Who owns cultural capital and who has the right to use it?”
 .
 
 As for him, corporate involvement in the arts is akin – or perhaps
-integral to – to the current erosion of public space.[^07_12] Moreover, as
+integral to – to the current erosion of public space.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_12] Moreover, as
 cultural spaces become institutional bastions of democratic
 self-expression and sites for social reconciliation and self-help,
 dissent is criminalized and forcefully punished worldwide.
@@ -207,15 +207,15 @@ Time*). In uncritical terms, Thompson recounts how General David
 Petraeus wrote a field manual geared at changing people’s attitudes
 towards American occupation in Mosul; as exemplified in:
 
-> A story about counterinsurgency and community organizing, about
-> getting to know people as an occupying force, and getting to know
-> people as neighbors. It is a story about the military entering the
-> terrain of that thing called culture.[^07_13]
+A story about counterinsurgency and community organizing, about getting
+to know people as an occupying force, and getting to know people as
+neighbors. It is a story about the military entering the terrain of that
+thing called culture.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_13]
 
 In this regard, a ‘cultural approach’ to military occupation is akin to
 artistic social and community practices, as both involve “getting to
 know people to be able to change the landscapes of life and of
-power.”[^07_14] In the case of civilians in Mosul, this is done obviating
+power.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_14] In the case of civilians in Mosul, this is done obviating
 their experiences under attack. This cultural turn in the U.S. military
 machinery took place a few years after theorist Frederic Jameson
 diagnosed a “cultural turn” in capitalism, arguing that social space had
@@ -231,7 +231,7 @@ culture as a tool as they search for economic and sociopolitical
 betterment, culture has become a resource and a compensatory device to
 the ravages neoliberal policies have caused on the social tissue: both
 give meaning and symbolic representations, provide mechanisms of solace,
-as well as tools for re-invention and amelioration.[^07_15] In this
+as well as tools for re-invention and amelioration.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_15] In this
 context, the line between public programs and relational aesthetics or
 participative art appears to be increasingly blurred. Former Mexican
 president Felipe Calderón made a public appearance in February 2012 in
@@ -261,7 +261,7 @@ carrying an inscription telling the story of the weapon they represented
 donating them). The engraved shovels were distributed in art
 institutions and public schools and adults and children planted 1527
 trees. To Reyes, this ritual had a pedagogical purpose: “to show the
-people how an agent of death can become an agent of life.”[^07_16] A
+people how an agent of death can become an agent of life.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_16] A
 similar public purge of weapons in exchange for appliances (and
 tablets), is currently happening in Mexico City led by a “Pink Ladies
 Brigade.” These relational actions – both by General Petraeus’ and by
@@ -278,7 +278,7 @@ political work has been developed into a matter of codification using
 medial forms with the purpose of creating a terrain for political acts,
 creating an “activist imaginary” made of political fields constituted by
 images. Political action embedded in cultural forms implies making
-things public as a way of signs.[^07_17] An example could be Trevor
+things public as a way of signs.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_17] An example could be Trevor
 Paglen’s (sometimes abstract or blurry) photographs of top-secret
 governmental, nuclear and military sites. Works such as Paglen’s, seek
 to make visible the invisible under the premise that such an act is
@@ -303,7 +303,7 @@ political subjects – as they are collective enunciations constantly
 ‘becoming.’ In this context, “expressive” politics is valued over
 representation because “it embodies rebellious subjectivities expressing
 themselves without delegation and they do so through formal and symbolic
-richness.”[^07_18] One of the issues that rises is that there is lack of a
+richness.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_18] One of the issues that rises is that there is lack of a
 common ground to universalize the multiplicity of singular struggles and
 social movements scattered across the world like archipelagos. There are
 just too many images in the Infosphere, and ‘sensible politics’ exists
@@ -328,7 +328,7 @@ qualities of aesthetic production have become hegemonic and have
 transformed labor and consumption processes as well as aesthetic
 experiences. Not only sensations and feelings are being trivialized and
 packaged for sale. Disinterestedness (the core of aesthetic experience
-as defined by Kant) has also vanished.[^07_19] This arises as the result of
+as defined by Kant) has also vanished.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_19] This arises as the result of
 aesthetic experience being enslaved for profit, as well as subsumed to
 “political” efficiency – in the sense of State and corporate strategic
 investment in culture, as well as it was the transformation of political
@@ -348,7 +348,7 @@ Furthermore, through subsidizing art and cultural projects,
 corporations, states and arts patrons put into practice following
 principle of the Prince Claus Fund: “There can be no development without
 culture, and there can be no cultural development without freedom of
-debate.”[^07_20] As this quote becomes evermore evident, the public expects
+debate.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_20] As this quote becomes evermore evident, the public expects
 from culture and art rigorous accountability, critical questioning,
 democratic access, dialogue and openness as well as equal representation
 in the visual regime (and this is posited as the road to development).
@@ -374,9 +374,9 @@ aesthetic manifesto *What is Literature?* and elaborates a theoretical
 debate about engaged literature and autonomous art. According to Adorno,
 there are two kinds of works of art. On the one hand, there are works
 that “are vulgarly assimilated to the existence against which they
-protest.”[^07_21] These works “are content with being mere fetishes or a
+protest.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_21] These works “are content with being mere fetishes or a
 pass-time, and thus degenerate and become de-politicized cultural
-merchandise.”[^07_22] This de-politicization, for Adorno is in fact, deeply
+merchandise.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_22] This de-politicization, for Adorno is in fact, deeply
 political – much politically or socially minded contemporary art would
 fit into this category. On the other hand, there is *engaged autonomous
 ar*t, which, as art, is necessarily detached from reality. Adorno
@@ -394,7 +394,7 @@ concrete ideology, but it operates at the level of fundamental
 attitudes. For Adorno, autonomous and engaged works of art operate at
 the level of abandoning the social contract with reality and “cease to
 speak as if they were reporting the facts: this is the moment in which a
-work of art makes people’s hair stand up.”[^07_23] According to Adorno, the
+work of art makes people’s hair stand up.”[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_23] According to Adorno, the
 shock of the unintelligible (or the ambiguous), is able to communicate
 more than what is legible and explicit. In that sense, works of art are
 autonomous, instead of heteronomous. Heteronomy implies that an artwork
@@ -410,11 +410,11 @@ autonomous art is still part of it.
 
 If the autonomy of modern art implied considering art as a realm
 distanced from reality, art’s post-medium condition means that it has
-become a niche within reality.[^07_24] What is thus at stake in autonomous
+become a niche within reality.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_24] What is thus at stake in autonomous
 art nowadays, would be to posit it as an experience of reality that is
 fundamentally foreign and antagonistic to the prevailing reality. If the
 autonomy of art should be located in the realm of reproduction as Marina
-Vischmidt argues[^07_25] – it would oppose the realm of production of the
+Vischmidt argues[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_25] – it would oppose the realm of production of the
 social, political and economic surplus value, as it would go against
 embodying power and the entrepreneurial model of work. Producing
 difference, dragging out the laboring conditions hidden within it,
@@ -425,11 +425,11 @@ force, or to be subjected to interests foreign to itself or simply
 becoming a pleasing commodity. Overcoming self-censorship, it would
 cease to participate in the economy of the globalized artworld,
 especially in the name of critical practices, political work or social
-justice, abandoning its claim to become a progressive social force.[^07_26]
+justice, abandoning its claim to become a progressive social force.[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_26]
 Above all, it would work against the power of culture and the culture of
 power.
 
-**Reference List**
+### Reference List
 
 Adorno, Theodor. 'Commitment', *New Left Review* I (87088)
 (September-December, 1974).
@@ -479,72 +479,72 @@ http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social
 Wu, Chin-tao. 'Embracing the Enterprise Culture: Art Institutions Since
 the 1980s', *New Left Review* I 230 (July-August, 1998)
 
-[^07_1]: Different versions of this essay were presented at Bureau Publik,
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_1]: Different versions of this essay were presented at Bureau Publik,
     Copenhaguen, October 31^st^, 2013 and KHIB in Bergen, Norway, on
     November 5, 2013.
 
-[^07_2]: Kerstin Stakemeier and Marina Vishmidt, 'The Value of Autonomy: A
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_2]: Kerstin Stakemeier and Marina Vishmidt, 'The Value of Autonomy: A
     conversation between Kerstin Stakemeier and Marina Vishmidt about
     the reproduction of art,' *Texte zur Kunst* 88 (December 2012):
     102–117.
 
-[^07_3]: Hal Foster, 'What’s Neo about the Neo-Avant-Garde?' *October*,
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_3]: Hal Foster, 'What’s Neo about the Neo-Avant-Garde?' *October*,
     Vol. 70, The Duchamp Effect (Autumn 1994): 5-32.
 
-[^07_4]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_4]: Ibid.
 
-[^07_5]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_5]: Ibid.
 
-[^07_6]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_6]: Ibid.
 
-[^07_7]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_7]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
     *Oxford Art Journal* 27.2, (2004), p. 259.
     http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf
 
-[^07_8]: Ibid., pp. 260-261.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_8]: Ibid., pp. 260-261.
 
-[^07_9]: Chin-tao Wu, 'Embracing the Enterprise Culture: Art Institutions
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_9]: Chin-tao Wu, 'Embracing the Enterprise Culture: Art Institutions
     Sicne the 1980s', *New Left Review* I/ 230, (July-August 1998): 31.
 
-[^07_10]: See artist’s statement available at:
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_10]: See artist’s statement available at:
     http://www.taniabruguera.com/cms/486-0-Immigrant+Movement+International.htm.
 
-[^07_11]: Oliver Marchart, 'Art, Space and the Public Sphere(s)' (2002),
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_11]: Oliver Marchart, 'Art, Space and the Public Sphere(s)' (2002),
     [http://eipcp.net/transversal/0102/marchart/en](styles.xml)
 
-[^07_12]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_12]: Gregory Sholette, 'Welcome to the Desert of the Real Artworld,'
     *Oxford Art Journal* 27.2 (2004): 260-261, :
     http://www.gregorysholette.com/wp-content/uploads/2011/04/07\_welcome1.pdf
 
-[^07_13]: Nato Thompson, 'The Insurgents Part I: Community-Based Practice
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_13]: Nato Thompson, 'The Insurgents Part I: Community-Based Practice
     as Military Methodology,' *e-flux journal* \# 47, (September 2013),
     available
-    online:[http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology/](settings.xml).
+    online:[http://www.e-flux.com/journal/the-insurgents-part-i-community-based-practice-as-military-methodology/](stylesWithEffects.xml).
     In the second part of his essay, Thompson includes a disclaimer
     about him glossing over U.S. military violence in Iraq. See:
     http://www.e-flux.com/journal/the-insurgents-part-ii-fighting-the-left-by-being-the-left/
 
-[^07_14]: Thompson, 2013.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_14]: Thompson, 2013.
 
-[^07_15]: See Irmgard Emmelhainz, 'Art and the Cultural Turn: Farewell to
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_15]: See Irmgard Emmelhainz, 'Art and the Cultural Turn: Farewell to
     Committed Autonomous Art?' *e-flux journal* N. 42 (February 2013),
     http://www.e-flux.com/journal/art-and-the-cultural-turn-farewell-to-committed-autonomous-art/
 
-[^07_16]: Artist’s statement available online:
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_16]: Artist’s statement available online:
     http://pedroreyes.net/palasporpistolas.php.
 
-[^07_17]: See: Megan McLagan and Yates McKee (eds), 'Introduction,'
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_17]: See: Megan McLagan and Yates McKee (eds), 'Introduction,'
     *Sensible Politics: The Visual Culture of Nongovernmental Activism*,
     (Cambridge, Mass., Zone Books, 2012), pp. 9-22.
 
-[^07_18]: Marcelo Espósito, 'Lecciones de historia. El arte, entre la
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_18]: Marcelo Espósito, 'Lecciones de historia. El arte, entre la
     experimentación institucional y las políticas del movimiento', SITAC
     2009. http://marceloexposito.net/pdf/exposito\_sitac.pdf
 
-[^07_19]: Stephen Shaviro, 'Accelerationist Aesthetics,' *e-flux journal*
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_19]: Stephen Shaviro, 'Accelerationist Aesthetics,' *e-flux journal*
     \#46 (Summer 2013).
 
-[^07_20]: From their website: “… The Prince Claus Fund’s mission is to
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_20]: From their website: “… The Prince Claus Fund’s mission is to
     actively seek cultural collaborations founded on equality and trust,
     with partners of excellence, in spaces where resources and
     opportunities for cultural expression, creative production and
@@ -554,21 +554,21 @@ the 1980s', *New Left Review* I 230 (July-August, 1998)
     more information, visit their website:
     http://www.princeclausfund.org/en/the-fund.
 
-[^07_21]: Theodor Adorno, 'Comittment,' *New Left Review* I/87088
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_21]: Theodor Adorno, 'Comittment,' *New Left Review* I/87088
     (September-December 1974),
     http://newleftreview.org/I/87-88/theodor-adorno-commitment
 
-[^07_22]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_22]: Ibid.
 
-[^07_23]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_23]: Ibid.
 
-[^07_24]: Marina Vishmidt, 'Mimesis of the Hardened and Alienated: Social
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_24]: Marina Vishmidt, 'Mimesis of the Hardened and Alienated: Social
     Practice as a Business Model,' *e-flux journal* 43 (March, 2013),
     http://www.e-flux.com/journal/“mimesis-of-the-hardened-and-alienated”-social-practice-as-business-model/
 
-[^07_25]: Ibid.
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_25]: Ibid.
 
-[^07_26]: Andrea Fraser, 'Le 1% c’est moi' (2011), Le gorille penseur est
+[^08_Emmelheinz_I_Neoliberalism_and_the_Autonomy_of_Art_FINAL_26]: Andrea Fraser, 'Le 1% c’est moi' (2011), Le gorille penseur est
     un guerrier : le guerrier est un être pour la mort, puisque son
     métier consiste à mourir. Ici, il pense un peu à la fin de son
     espèce, ou à la fin de l'ère des guerriers -notre époque n'est plus

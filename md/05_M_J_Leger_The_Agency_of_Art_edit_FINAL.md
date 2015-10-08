@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Marc James Léger
+Marc James Léger
 
-# The Agency of Art in the Unconscious
+## THE AGENCY OF ART IN THE UNCONSCIOUS
 
 How can we explain the grey zone, the minimum distance between
 creativity and capitalist demand? How can we understand creative
@@ -33,14 +33,14 @@ industry dispossession? According to Slavoj Žižek, when art production
 is increasingly subjected to commodification, and when commodities are
 increasingly aestheticized, artworks are no longer able to sustain the
 lack in the big Other, understood here as the agency of belief in art’s
-social and cultural significance.[^04_1] One symptom of this phenomenon is
+social and cultural significance.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_1] One symptom of this phenomenon is
 the view that art today has collapsed directly into political economy.
 In the words of the editors of *e-flux* journal, “contemporary art *is*
-neoliberalism in its most purified form”.[^04_2] The truth of this
+neoliberalism in its most purified form”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_2] The truth of this
 assertion is that artworks are particularly apt as signifiers of
 castration. As creativity marks ever more aspects of daily life, almost
 any kind of work not only can, but in a kind of frenetic hysteria, must
-be elevated to the place of Art.[^04_3] While this may seem a standard
+be elevated to the place of Art.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_3] While this may seem a standard
 postmodern argument for the breakdown of the distinction between high
 art and mass culture, postmodernism tends nevertheless to leave belief
 in the aesthetic intact, proliferating through the fields of discourse
@@ -49,7 +49,7 @@ relativism, however, and wish to consider instead, to paraphrase Žižek
 in his thinking on Christianity, “the perverse core” of avant-garde art
 production.
 
-**Art for Imbeciles**
+### Art for Imbeciles
 
 In an essay on what he calls “enclave theory,” John Roberts made the
 somewhat startling assertion that many of the most progressive art
@@ -60,7 +60,7 @@ Negri and Michael Hardt, represent the “invariant core of a communist
 programme” that is “largely divorced from the past,” in particular, from
 its Stalinist Communist party organizations, and is committed rather to
 “culturally aestheticized” “autonomous forms of productive, intellectual
-and creative community”.[^04_4] What is surprising in this claim is the
+and creative community”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_4] What is surprising in this claim is the
 idea that these are invariant forms, and not significantly different.
 Roberts asks us to consider what all of these theorists’ perspectives on
 radical culture have in common rather than what distinguishes them. This
@@ -85,7 +85,7 @@ The idea that art has no socially agreed upon justifications has been
 addressed by anthropologist David Graeber, who wonders why contemporary
 theorists attending an art symposium at the Tate Museum should explain
 the 2008 fiasco by taking recourse to avant-garde art created between
-1916 and 1922.[^04_5] His point is that we are potentially once again
+1916 and 1922.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_5] His point is that we are potentially once again
 living a revolutionary moment, but that epistemological subversion
 through culture and post-structuralist theory seems to satisfy only
 liberal academics. The return to avant-gardism, he argues, effects “a
@@ -109,7 +109,7 @@ people to believe them. In order to play the game effectively, one must
 not oneself know the essence of things. He concludes from this that if
 the art world was to recognize itself as a form of politics, it would
 also need to “recognize itself as something both magical, and a
-confidence game – a kind of scam”.[^04_6] Insofar as the art world has
+confidence game – a kind of scam”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_6] Insofar as the art world has
 become an appendage to financial capital, fictive capital explains
 fictive cultural value as well. All the players, he argues, cynics and
 idealists alike, draw on outmoded nineteenth-century notions of art,
@@ -131,7 +131,7 @@ luck derived from a horse shoe, replied he did not, but that apparently
 it works even if one does not believe in it. Rather than payer, player
 and prayer, then, categories that Barber leaves undefined, I would like
 to propose the set of three subject positions that Žižek outlines at the
-start of *Less Than Nothing*: the idiot, the moron and the imbecile.[^04_7]
+start of *Less Than Nothing*: the idiot, the moron and the imbecile.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_7]
 All three positions are premised on the Lacanian theory of the big
 Other, which stands for the heterogeneous social rules that together
 comprise what Lacan defines as the social symbolic. As an impersonal
@@ -139,7 +139,7 @@ social agency, the big Other stands in for those rules that shape the
 unconscious of the social subject.
 
 The first of the three is the idiot, defined by Žižek as someone who is
-“too intelligent to process implicit social rules”.[^04_8] The idiot
+“too intelligent to process implicit social rules”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_8] The idiot
 imagines himself beyond the influence of the big Other and knows the
 rules (of art) all too well to be able to process them in a way beyond
 his hyper-intellectuality. As the first of two examples of idiots within
@@ -152,7 +152,7 @@ argues, are today threatening this pyramidal system as their dark energy
 becomes increasingly visible. The book *Dark Matter* thus presents
 itself as a “lumpenography” of this invisible mass of makeshift,
 amateur, informal, unofficial, autonomous, activist, non-institutional,
-and self-organized practices.[^04_9] Sholette argues that art critics, art
+and self-organized practices.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_9] Sholette argues that art critics, art
 historians, arts administrators, collectors and dealers typically have
 little interest in creative dark matter. There is no question that the
 art world is made up not only of what is known about art, but involves a
@@ -190,8 +190,8 @@ within societies of control and is also, like so many contemporary
 theorists, skeptical of avant-garde modes of contestation. Within the
 new flexible regimes of accumulation and casual freelance culture, the
 demands for autonomy, he argues, are diverted into new modes of
-control.[^04_10] The premise of liar’s poker, as he puts it, is that “when
-people talk about politics in an artistic frame, they’re lying”.[^04_11]
+control.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_10] The premise of liar’s poker, as he puts it, is that “when
+people talk about politics in an artistic frame, they’re lying”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_11]
 Cultural institutions, he argues, constantly demand that artists
 “picture politics,” playing the art game and representing those who are
 excluded to those who are safely nestled inside, especially
@@ -214,14 +214,14 @@ more in art and to directly assume the lack in the big Other – a small
 distinction, but a crucial one if we are to see art institutions as
 anything more than duplicitous. Like Sholette, Holmes is concerned that
 institutions seek cultural capital among “the more radical fractions of
-the artistic field”.[^04_12] The artist has to produce the ace of politics,
+the artistic field”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_12] The artist has to produce the ace of politics,
 he argues, while proving all the while that the ace is merely a joker,
 thereby undermining the reality of the illusion. Like so many leftists,
 Holmes assumes that the big Other is or can be occupied.
 
 The second subject position outlined by Žižek is the moron, defined by
 “the stupidity of those who fully identify with common sense, who fully
-stand for the big Other of appearances”.[^04_13] Two notable cultural
+stand for the big Other of appearances”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_13] Two notable cultural
 theorists who might in some ways fill this description are Grant Kester
 and Claire Bishop. Kester is a seasoned art critic with a long track
 record of insightful writing on the shift from public art and identity
@@ -232,7 +232,7 @@ communities. Like many proponents of the new tendencies, he has worked
 to anchor his theory of “dialogical aesthetics” in both social and
 political history as well as the philosophy of aesthetics. While erudite
 and knowledgeable, Kester’s polemic, as presented in his book *The One
-and the Many*, is intensely prescriptive.[^04_14] For the sake of artist
+and the Many*, is intensely prescriptive.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_14] For the sake of artist
 groups like Park Fiction, Ala Plastica, and Dialogue, all avant-garde
 tactics (reduced to formalist modernism) are proscribed, including the
 work of leading cultural theorists like Barthes, Derrida, de Certeau,
@@ -243,14 +243,14 @@ against premature totalizations. “We are witnessing today,” he writes,
 “a certain disenchantment with the existing parameters of avant-garde
 art and an attempt to rearticulate the specificity of the aesthetic in
 relationship to both the viewer and to other cultural and political
-practices”.[^04_15] The leitmotif of avant-garde and theoretical
+practices”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_15] The leitmotif of avant-garde and theoretical
 post-structuralism, he argues, is the impossibility of social
-cohesion.[^04_16] In contrast, Kester is interested in the global
+cohesion.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_16] In contrast, Kester is interested in the global
 phenomenon and success of collaborative modes of production, as found
 for instance in the work of Border Arts Workshop, Group Material,
 REPOhistory, Gran Fury, Platform, WochenKlausur, and Groupo Etcetera,
 where emphasis is placed on multiple authorship, participatory relation
-to audience, and process-based activist intervention.[^04_17] Despite his
+to audience, and process-based activist intervention.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_17] Despite his
 critique of what he calls the “intellectual baroque,” Kester’s
 dialogical aesthetics retains many of the typical leitmotifs of
 postmodernism, especially the distinctions that are made between
@@ -260,10 +260,10 @@ argue, social forms have channeled culture in such a way as to give it a
 privileged role in economic development. According to George Yúdice,
 culture is today treated as an expedient, construed as a resource for
 sociopolitical ameliorism and job creation, a process that coincides
-with capitalist ideology and biopolitical regulation.[^04_18] The role of
+with capitalist ideology and biopolitical regulation.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_18] The role of
 culture, Yúdice argues, “has expanded in an unprecedented way into the
 political and economic at the same time that conventional notions of
-culture have been emptied out”.[^04_19] Unlike Sholette and Holmes, Kester
+culture have been emptied out”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_19] Unlike Sholette and Holmes, Kester
 tends to underplay this problem of institutional mediation, leaving
 actually existing institutions all the more operative in the
 administration of socially engaged art.
@@ -271,17 +271,17 @@ administration of socially engaged art.
 Another critic we could add to the group of morons is Claire Bishop.
 Bishop is well-known for her 2004 *October* essay in which she
 criticized Bourriaud’s relational aesthetics for its rhetoric of
-democracy and emancipation.[^04_20] The open works advocated by
+democracy and emancipation.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_20] The open works advocated by
 contemporary critics like Bourriaud foreground interaction rather than
 contemplation and engagement rather than passivity and disengagement,
 assuming that these former modalities are inherently political and
 emancipatory. She argues that Bourriaud wants to equate aesthetic
 judgement with political judgement. “But how,” she asks, “do we measure
-or compare these relationships?”.[^04_21] Dialogue, she says, is assumed in
+or compare these relationships?”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_21] Dialogue, she says, is assumed in
 advance to be democratic, excluding other modalities, like autonomy,
 antagonism, oppositionality, destabilization, and artworks that
 recognize the limits of “society’s ability to fully constitute
-itself”.[^04_22] She defines the autonomy of the artwork in terms of the
+itself”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_22] She defines the autonomy of the artwork in terms of the
 social antagonism that is mirrored in the tension between art and
 society. Bishop insists that we should be better able to judge art
 itself and not merely better politics, and therefore acknowledge the
@@ -292,7 +292,7 @@ notion of antagonism that she otherwise recognizes. While she exposes
 what is repressed in the idea of social harmony, she ignores how art
 itself acts as this agent of repression. In this regard, *Artificial
 Hells*, her latest treatment of participatory art, mostly expands the
-number of examples rather than improve the initial theory.[^04_23] She
+number of examples rather than improve the initial theory.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_23] She
 worries about the instrumentalization of participatory art, something
 Kester is less troubled by, but perhaps misses the point that this
 apprehension is misplaced insofar as it concerns itself with art *per
@@ -310,7 +310,7 @@ third group in Žižek’s series: the imbeciles. An imbecile is someone
 whose mental retardation causes him to be aware of the need for a big
 Other, but who does not rely on it. The imbecile is somewhere between
 the idiot and the moron, who recognizes the function of language but who
-distrusts it.[^04_24] The big Other exists, but is inconsistent. The
+distrusts it.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_24] The big Other exists, but is inconsistent. The
 question for aesthetics, then, is to consider in theoretical and not
 only sociological terms the ways in which the art world guarantees the
 consistency of the rules of art, allowing for dark matter to be
@@ -319,7 +319,7 @@ and the imbecile is the inconsistency of their belief in the big Other
 of art and, as I argue further on, this inconsistency represents the
 “perverse core” of aesthetics as such.
 
-## The Reality of the Fiction
+### The Reality of the Fiction
 
 What is the significance of critical art in the context of contemporary
 cultural theory, within the space of culture in general, and as it is
@@ -341,10 +341,10 @@ German idealism.
 overlap with Lacan and Žižek’s view that among the German idealists,
 Hegel alone is able to sustain the idea of the lack in the big Other and
 the dialectical reversal that occurs when an epistemological obstacle is
-transposed directly into the Thing itself – here the work of art.[^04_25]
+transposed directly into the Thing itself – here the work of art.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_25]
 “Our inability to know the thing indicates a crack in the thing itself,
 so that our very failure to reach the full truth is the indicator of
-truth”.[^04_26] No wonder then that dark matter, to take up the metaphor,
+truth”.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_26] No wonder then that dark matter, to take up the metaphor,
 is obviated by the obsession with the celebrity star system: Picasso,
 Van Gogh, Ai Weiwei, Gerhard Richter, Jeff Koons, what have you. One
 problem in the structure of ideology, Žižek explains, is that there is
@@ -354,11 +354,11 @@ symbolic inscription and ideological suture. In contrast to Claire
 Bishop’s quest to determine institutional criteria for judging
 participatory art, Žižek writes:
 
-> Schoenberg still hoped that somewhere there would be at least one
-> listener who would truly understand his atonal music. It was only his
-> greatest pupil, Anton Webern, who accepted the fact that there is no
-> listener, no big Other to receive the work and properly recognize its
-> value.[^04_27]
+Schoenberg still hoped that somewhere there would be at least one
+listener who would truly understand his atonal music. It was only his
+greatest pupil, Anton Webern, who accepted the fact that there is no
+listener, no big Other to receive the work and properly recognize its
+value.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_27]
 
 There are no guarantees for art and this becomes one of the principal
 axioms of the notion of creativity. Those who worry that all creativity
@@ -371,9 +371,9 @@ so-called “phenomenal” reality, usually by pointing to some token of
 reality: bodily affect, group interaction, S&P indicators, the haptic
 qualities of new media, etc. The idea that art criticism should be more
 global in scope, representing a greater diversity of experiences, is one
-way among many to avoid the Real of illusion.[^04_28] What then can
+way among many to avoid the Real of illusion.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_28] What then can
 artworks tell us about the changing parameters of what Peter Bürger
-defined as the “institution art”?[^04_29]
+defined as the “institution art”?[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_29]
 
 The unique quality of art is that more than most other things in our
 social universe it can express the reality of illusion through any
@@ -381,14 +381,14 @@ random object. This illusory quality is a secret, in Marx the commodity
 fetish, or in Lacan, the ineffable *objet a* that allows anything to be
 elevated to the concept of Art and allows it to be installed in the
 symbolic order. The artist comes closest to this understanding when he
-or she intervenes through the neutral position of the analyst.[^04_30] The
+or she intervenes through the neutral position of the analyst.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_30] The
 artist’s neutrality cannot be socially localized since the art thing has
 no ontological reality but is a virtual point. This is what Lacan refers
 to in the notion of *le père ou le pire* – the oedipal father or the
 worse, the choice of art as the worse option, which more effectively
 undermines the entire symbolic field. Avant-garde works represent a
 negative force against the organic unity of community and as such are
-vital to emancipatory politics.[^04_31] Strict egalitarian emancipation
+vital to emancipatory politics.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_31] Strict egalitarian emancipation
 cancels rather than preserves the organic unity of the hierarchical
 social order. Radical art operates as the obscene disavowed underside of
 the art world ponzi scheme. How so?
@@ -403,7 +403,7 @@ sublated into acts of creation, something that Lacan defines as drive.
 Creativity can therefore be defined as the eruption of a new form that
 reorganizes the social field, imposing itself as a new necessity through
 an act of ungrounded subjective decision, abandoned by Art and with no
-guarantee of aesthetic value or art world consecration.[^04_32] The
+guarantee of aesthetic value or art world consecration.[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_32] The
 inscrutability of the aesthetic big Other, even as blue chip investment,
 is the certitude of creativity, the condition of its ecstatic
 production. Since art is dead and the author is dead and since therefore
@@ -450,11 +450,7 @@ criteria. There are no guarantees for the social importance of artworks,
 only the passage from creativity to consequences. For things to happen,
 creation must be a condition of the truth of illusion.
 
-## 
-
-## 
-
-## Reference List
+### Reference List
 
 Aranda, Julieta, Brian Kuan Wood and Anton Vidokle (eds). *e-flux
 journal 21* (2010),
@@ -508,109 +504,108 @@ Worth Fighting For?,* London: Verso, 2000.
 Žižek, Slavoj. *Less Than Nothing: Hegel and the Shadow of Dialectical
 Materialism*, London: Verso, 2012.
 
-[^04_1]: Slavoj Žižek, *The Fragile Absolute, or, Why Is the Christian
-    Legacy Worth Fighting For?,* London: Verso, 2000, pp. 31-2.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_1]: Slavoj Žižek, The Fragile Absolute, or, Why Is the Christian
+    Legacy Worth Fighting For?, London: Verso, 2000, pp. 31-2.
 
-[^04_2]: Julieta Aranda, Brian Kuan Wood and Anton Vidokle (eds) *e-flux
-    journal 21* (2010),
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_2]: Julieta Aranda, Brian Kuan Wood and Anton Vidokle (eds) e-flux
+    journal 21 (2010),
 
     http://www.e-flux.com/journal/editorial-18/.
 
-[^04_3]: See Gerald Raunig, Gene Ray and Ulf Wuggenig (eds) *Critique of
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_3]: See Gerald Raunig, Gene Ray and Ulf Wuggenig (eds) Critique of
     Creativity: Precarity, Subjectivity and Resistance in the “Creative
-    Industries”*, London: MayFly Books, 2011
+    Industries”, London: MayFly Books, 2011
 
-[^04_4]: John Roberts, Art, ‘Enclave Theory’ and the Communist Imaginary.
-    *Third Text 23(4)* (2009): 353, 358.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_4]: John Roberts, Art, ‘Enclave Theory’ and the Communist Imaginary.
+    Third Text 23(4) (2009): 353, 358.
 
-[^04_5]: David Graeber, ‘The Sadness of Post-Workerism’, or, ‘Art and
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_5]: David Graeber, ‘The Sadness of Post-Workerism’, or, ‘Art and
     Immaterial Labour’ Conference: A Sort of Review, 2008,
 
     http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber.
 
-[^04_6]: David Graeber, ‘The Sadness of Post-Workerism’, or, ‘Art and
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_6]: David Graeber, ‘The Sadness of Post-Workerism’, or, ‘Art and
     Immaterial Labour’ Conference: A Sort of Review, 2008,
 
     http://www.scribd.com/doc/38093582/The-Sadness-of-Post-Workerism-David-Graeber
 
-[^04_7]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, pp. 1-2.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_7]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, pp. 1-2.
 
-[^04_8]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 1.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_8]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 1.
 
-[^04_9]: Gregory Sholette, *Dark Matter: Art and Politics in the Age of
-    Enterprise Culture*, London: Pluto, 2011, p. 1.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_9]: Gregory Sholette, Dark Matter: Art and Politics in the Age of
+    Enterprise Culture, London: Pluto, 2011, p. 1.
 
-[^04_10]: Brian Holmes, *Unleashing the Collective Phantoms: Essays in
-    Reverse Imagineering*, Brooklyn: Autonomedia, 2008, p. 19.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_10]: Brian Holmes, Unleashing the Collective Phantoms: Essays in
+    Reverse Imagineering, Brooklyn: Autonomedia, 2008, p. 19.
 
-[^04_11]: Brian Holmes, *Unleashing the Collective Phantoms: Essays in
-    Reverse Imagineering*, Brooklyn: Autonomedia, 2008, p. 81.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_11]: Brian Holmes, Unleashing the Collective Phantoms: Essays in
+    Reverse Imagineering, Brooklyn: Autonomedia, 2008, p. 81.
 
-[^04_12]: Brian Holmes, *Unleashing the Collective Phantoms: Essays in
-    Reverse Imagineering*, Brooklyn: Autonomedia, 2008, p. 91.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_12]: Brian Holmes, Unleashing the Collective Phantoms: Essays in
+    Reverse Imagineering, Brooklyn: Autonomedia, 2008, p. 91.
 
-[^04_13]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 1.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_13]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 1.
 
-[^04_14]: Grant Kester, *The One and the Many: Contemporary Collaborative
-    Art in a Global Context*, Durham: Duke University Press, 2011.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_14]: Grant Kester, The One and the Many: Contemporary Collaborative
+    Art in a Global Context, Durham: Duke University Press, 2011.
 
-[^04_15]: Grant Kester, *The One and the Many: Contemporary Collaborative
-    Art in a Global Context*, Durham: Duke University Press, 2011, pp.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_15]: Grant Kester, The One and the Many: Contemporary Collaborative
+    Art in a Global Context, Durham: Duke University Press, 2011, pp.
     36-7.
 
-[^04_16]: Grant Kester, *The One and the Many: Contemporary Collaborative
-    Art in a Global Context*, Durham: Duke University Press, 2011, p.
-    49.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_16]: Grant Kester, The One and the Many: Contemporary Collaborative
+    Art in a Global Context, Durham: Duke University Press, 2011, p. 49.
 
-[^04_17]: Grant Kester, *The One and the Many: Contemporary Collaborative
-    Art in a Global Context*, Durham: Duke University Press, 2011, p. 4.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_17]: Grant Kester, The One and the Many: Contemporary Collaborative
+    Art in a Global Context, Durham: Duke University Press, 2011, p. 4.
 
-[^04_18]: George Yúdice, *The Expediency of Culture: Uses of Culture in the
-    Global Era*, Durham: Duke University Press, 2003.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_18]: George Yúdice, The Expediency of Culture: Uses of Culture in the
+    Global Era, Durham: Duke University Press, 2003.
 
-[^04_19]: George Yúdice, *The Expediency of Culture: Uses of Culture in the
-    Global Era*, Durham: Duke University Press, 2003, p. 9.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_19]: George Yúdice, The Expediency of Culture: Uses of Culture in the
+    Global Era, Durham: Duke University Press, 2003, p. 9.
 
-[^04_20]: Claire Bishop, Antagonism and Relational Aesthetics. *October
-    110* (2004): 51-79.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_20]: Claire Bishop, Antagonism and Relational Aesthetics. October 110
+    (2004): 51-79.
 
-[^04_21]: Claire Bishop, Antagonism and Relational Aesthetics. *October
-    110* (2004): 65.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_21]: Claire Bishop, Antagonism and Relational Aesthetics. October 110
+    (2004): 65.
 
-[^04_22]: Claire Bishop, Antagonism and Relational Aesthetics. *October
-    110* (2004): 67.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_22]: Claire Bishop, Antagonism and Relational Aesthetics. October 110
+    (2004): 67.
 
-[^04_23]: Claire Bishop, *Artificial Hells: Participatory Art and the
-    Politics of Spectatorship*, London: Verso, 2012.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_23]: Claire Bishop, Artificial Hells: Participatory Art and the
+    Politics of Spectatorship, London: Verso, 2012.
 
-[^04_24]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 2.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_24]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 2.
 
-[^04_25]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 17.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_25]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 17.
 
-[^04_26]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 17.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_26]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 17.
 
-[^04_27]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 29.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_27]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 29.
 
-[^04_28]: Marc James Léger, Art and Art History After Globalization, *Third
-    Text 26(5)* (2012): 515-527
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_28]: Marc James Léger, Art and Art History After Globalization, Third
+    Text 26(5) (2012): 515-527
 
-[^04_29]: Peter Bürger, *Theory of the Avant-Garde*, trans. Michael Shaw,
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_29]: Peter Bürger, Theory of the Avant-Garde, trans. Michael Shaw,
     Minneapolis: University of Minnesota Press, 1984.
 
-[^04_30]: Marc James Léger, The Subject Supposed to Over-Identify: BAVO and
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_30]: Marc James Léger, The Subject Supposed to Over-Identify: BAVO and
     the Fundamental Fantasy of a Cultural Avant Garde, in Léger (ed.)
-    *Brave New Avant Garde: Essays on Contemporary Art and Politics*,
+    Brave New Avant Garde: Essays on Contemporary Art and Politics,
     Winchester, UK: Zero Books, 2012.
 
-[^04_31]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, p. 70.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_31]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, p. 70.
 
-[^04_32]: Slavoj Žižek, *Less Than Nothing: Hegel and the Shadow of
-    Dialectical Materialism*, London: Verso, 2012, pp. 106-11.
+[^05_M_J_Leger_The_Agency_of_Art_edit_FINAL_32]: Slavoj Žižek, Less Than Nothing: Hegel and the Shadow of
+    Dialectical Materialism, London: Verso, 2012, pp. 106-11.

@@ -17,7 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Introduction- THE GRAY ZONES OF CREATIVITY AND CAPITAL
+*Introduction*
+
+## THE GRAY ZONES OF CREATIVITY AND CAPITAL
 
 The initial idea that led to the preparation of this publication was not
 a reflection of the editors’ wish to merely add another publication
@@ -109,7 +111,7 @@ engineering and the laissez-faire concept of organizing society and the
 economy in Thatcher’s attack on the role of society in the regulation of
 society, the author links the roots of the derogation of subversive
 social engagement with the contemporary forms of organization of
-capitalism, in an alliance with the modern art mainstream*.*
+capitalism, in an alliance with the modern art mainstream.
 
 Marc James Leger’s text “The Agency of Art in the Unconscious”
 critically addresses contemporary art as a form of reproducing the
@@ -121,7 +123,17 @@ in which he sees contemporary art as a form of neutralization of radical
 fiction that would antagonize the above-mentioned relationship with
 capitalist economy.
 
-## “The Art of New Class Geography of the City - Culture-guided urban regeneration serving the modernization of the periphery” is a text by Ana Vilenica wherein she critically addresses the practices and principles contained in the neoliberal establishment of a class geography of urban environments in Serbia. Vilenica’a text does not remain at the level of analyzing the neoliberal strategies of contemporary capitalism, but also deals with the broader meaning of class and racial principles invested in the processes of modernization in general. In this sense, Vilenica analyses the effects of an alliance of sorts between capital and creative industries, emphasizing the role of art and culture in contemporary capitalist ideological rhetorics.
+“The Art of New Class Geography of the City - Culture-guided urban
+regeneration serving the modernization of the periphery” is a text by
+Ana Vilenica wherein she critically addresses the practices and
+principles contained in the neoliberal establishment of a class
+geography of urban environments in Serbia. Vilenica’a text does not
+remain at the level of analyzing the neoliberal strategies of
+contemporary capitalism, but also deals with the broader meaning of
+class and racial principles invested in the processes of modernization
+in general. In this sense, Vilenica analyses the effects of an alliance
+of sorts between capital and creative industries, emphasizing the role
+of art and culture in contemporary capitalist ideological rhetorics.
 
 Sandi Abram’s text “The Creative Factory: Collective Creativity and
 Autonomy in the Neoliberal Machine of Creative Industries” analyses the
@@ -184,4 +196,4 @@ functional to the detriment of society which has yet to be politicized
 and/or reinvented as a collective whose needs surpass the needs of the
 free market and the specific actors who profit the most from its logics.
 
-Šefik Tatlić and Gordana Nikolić
+*Šefik Tatlić and Gordana Nikolić*

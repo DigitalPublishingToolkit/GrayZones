@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Ana Vilenica
+Ana Vilenica
 
-# **The Art of New Class Geography of the City - Culture-guided urban regeneration serving the *modernization* of the periphery**
+## THE ART OF NEW CLASS GEOGRAPHY OF THE CITY - CULTURE-GUIDED URBAN REGENERATION SERVING THE *MODERNIZATION* OF THE PERIPHERY
 
 This text was written within the framework of the project “Creative Work
 and Urban Regenerations”, financed by the Secretariat for Science and
@@ -57,21 +57,23 @@ classes, ethnicity, race or sexual orientation. Understanding this state
 of affairs, as well as the role of culture and art, in a situation of
 constant production of manipulative images and false promises, turns out
 to be an important perspective towards articulating possible future
-forms of struggle and creation of "new territories".[^05_1]
+forms of struggle and creation of "new territories".[^06_Vilenica_A_The_Art_of_FINAL_1]
 
-## **Urban regenerations and the role of art and culture**
+## 
+
+### Urban regenerations and the role of art and culture
 
 In capitalist societies, the connection between art and urban
 regenerations is established as a model of producing a new class
-geography of the city.[^05_2] Such connections have been made possible
+geography of the city.[^06_Vilenica_A_The_Art_of_FINAL_2] Such connections have been made possible
 through the interpenetration of art and the entire social and cultural
 production mechanism under the conditions of the cultural colonization
-of life effected by capitalist production.[^05_3] Under these
+of life effected by capitalist production.[^06_Vilenica_A_The_Art_of_FINAL_3] Under these
 circumstances, art has become a resource and one of the important places
 when it comes to constructing power. The historical genesis of the
 connection between art and the transformation of cities is linked to the
 context of the USA and the 1970’s, when art created the preconditions
-for the increase of real estate prices in reindustrialized cities[^05_4]
+for the increase of real estate prices in reindustrialized cities[^06_Vilenica_A_The_Art_of_FINAL_4]
 and thus for a new class recomposition of the city. In the districts
 where artists came to live, art studios and art galleries proliferated,
 and their symbolic capital increased the level of the rent, so that
@@ -80,7 +82,7 @@ eventually followed by the artists themselves, who were replaced by
 richer city dwellers. Today, the processes of class recomposition of
 cities have been generalized at the global level, and their mechanisms
 include manipulating *collective symbolic capital* as a new apparatus of
-capitalist accumulation.[^05_5]
+capitalist accumulation.[^06_Vilenica_A_The_Art_of_FINAL_5]
 
 In the local context, the establishment of connections between art and
 urban regenerations became possible with the forcible transformation of
@@ -101,7 +103,7 @@ socialist man. Today, the new initiators of *urban development* are
 private and corporate investors, acting in cooperation with the state,
 city administration, global financial institutions, civil society
 organizations, and also with artists and workers in the sphere of
-culture.[^05_6] This kind of *investor planning* is characterized by a
+culture.[^06_Vilenica_A_The_Art_of_FINAL_6] This kind of *investor planning* is characterized by a
 continual search for a profitable terrain where a surplus of value can
 be achieved, which is controlled by particular elites. In such a
 situation, urban regenerations no longer represent merely an act of
@@ -119,13 +121,13 @@ tensions. The development of cities is promoted through new optimistic
 visions promising benefits for all. This urban optimism simultaneously
 hides the process of the creation of new class topography of the city,
 and a revengeful attitude towards those inhabitants who are not among
-the privileged ones.[^05_7]
+the privileged ones.[^06_Vilenica_A_The_Art_of_FINAL_7]
 
 Art and culture become an instrument and accomplices in such processes
 through the inclusion of creativity as applied imagination in the
 processes of producing optimistic urban visions. That is what
 metanarratives about creative industries, creative cities and creative
-economy are all about.[^05_8] In these narratives, culture and art are
+economy are all about.[^06_Vilenica_A_The_Art_of_FINAL_8] In these narratives, culture and art are
 reduced to their economic function in the project of attracting
 investors, tourism and stimulating the economy through a reduction of
 labor costs and social contributions, giving a boost to the
@@ -140,19 +142,19 @@ and creative city are viewed as an act of modernizing a *backward*
 society. The insufficient presence of such practices is explained by the
 incompatibility of the administrative, legal, banking and business
 systems in post-socialist countries with those of "advanced
-economies".[^05_9] In countries of South-Eastern Europe, this
+economies".[^06_Vilenica_A_The_Art_of_FINAL_9] In countries of South-Eastern Europe, this
 *modernization model* is implemented through state policies, the
 policies of cultural institutions and missions such as the British
 Council or the Goethe Institute, and also as a business strategy of
 private investors. Thus big cities in Serbia are regenerated through
 European and local *policies* about creative cities, such as the
 *Belgradisation of Belgrade* project and Belgrade’s bid for a European
-Capital of Culture in 2020,[^05_10] as well as the latest EU cultural
+Capital of Culture in 2020,[^06_Vilenica_A_The_Art_of_FINAL_10] as well as the latest EU cultural
 project entitled *Creative Europe*. Also, regeneration is carried out by
 organizing cultural, entertainment or sports events such as the
 Universiade or the Eurovision Song Contest, and through individual
 projects promoting cultural industries and art as a generator of urban
-regeneration processes[^05_11] and a guarantor of social inclusion in their
+regeneration processes[^06_Vilenica_A_The_Art_of_FINAL_11] and a guarantor of social inclusion in their
 implementation. Such practices are aimed at creating an image of the
 city as an innovative, exciting, creative and safe place for living,
 playing and consumption, promising benefits for all, whereas what is, in
@@ -168,7 +170,7 @@ of the state and the Party, as a system which, allegedly, *a priori*
 jeopardizes the basic human rights and the potential for creative
 expression of individuals. What was produced in this process was a new
 entrepreneurial subject of the artist, one no longer protected through
-public financing but struggling for him/herself on the market.[^05_12] In
+public financing but struggling for him/herself on the market.[^06_Vilenica_A_The_Art_of_FINAL_12] In
 this way, art was used as a convenient tool for *cultivating* people on
 the capitalist periphery. This neo-colonial process has not been
 finished yet. Today, it is reproduced in the sphere of the
@@ -177,17 +179,17 @@ used in the project of a *new modernization* of local society, which is
 viewed as backward, and is particularly in evidence in the cases of
 instrumentalisation of art in the processes of urban regenerations. A
 new profile of the artist that is promoted in this way is the
-entrepreneurial artist – artepreneur[^05_13] who resolves problems in a
+entrepreneurial artist – artepreneur[^06_Vilenica_A_The_Art_of_FINAL_13] who resolves problems in a
 non-linear and creative manner. He/she is a precarious worker who
 manages his/her human capital through self-employment from one project
 to another. The figure of artepreneur assumes a particularly important
 role in times of crisis, when it emerges, on the one hand, as a victim
 of the macroeconomic situation, and on the other, as a force that brings
-salvation.[^05_14] In contemporary art, the very idea of emancipation and
+salvation.[^06_Vilenica_A_The_Art_of_FINAL_14] In contemporary art, the very idea of emancipation and
 activism has become an issue related to entrepreneurship, and thereby,
 being placed in the service of capital, normalized to a great extent.
 
-## **Art-guided urban regenerations in Belgrade**
+### Art-guided urban regenerations in Belgrade
 
 In Serbia, culture- and art-guided urban regenerations have been
 promoted over the course of the past decade, and the realization of such
@@ -203,7 +205,7 @@ reflected the political, economic and cultural climate in the newly
 established state. In early 1990, the Serbian Academy of Sciences and
 Arts called an internal tender, within the framework of which the
 project “Water City” emerged, and in 1996 the Socialist Party of Serbia
-commissioned the project *Europolis*.[^05_15] These projects have never
+commissioned the project *Europolis*.[^06_Vilenica_A_The_Art_of_FINAL_15] These projects have never
 been realized, but that part of the city has never stopped attracting
 the attention of new investors and the political parties in power, most
 often during the course of pre-election campaigns.
@@ -213,19 +215,19 @@ not concern only the attractiveness of the actual location. It also has
 to do with the systematic work aimed at creating a new identity for
 Serbia and Belgrade, in a place which, during the pre-socialist period,
 in the first half of the 19^th^ century, was projected to become the
-economic centre of the city.[^05_16] It was there that the history of
+economic centre of the city.[^06_Vilenica_A_The_Art_of_FINAL_16] It was there that the history of
 capitalist Serbia was made, aiming to establish a continuity through a
 systematic erasure of the socialist history and the industrial
 development of this area. What is worrying about this is the fact that
 this old Belgrade was a city of enormous class differences, where more
-than 80% of the population lived in extreme poverty.[^05_17] The riverbanks
+than 80% of the population lived in extreme poverty.[^06_Vilenica_A_The_Art_of_FINAL_17] The riverbanks
 are also a place of memory engineering, connected with the recent
 history of the wars fought in the 1990’s on the territory of the former
 Yugoslavia, which represents a continuation of the processes of
 historical revisionism in Serbia, without which a projection of Belgrade
 as a new European-Serbian urban centre for the higher classes is not
 possible. One of the first great state projects of the regeneration of
-that area was the renovation of Sava Square[^05_18], which began by the
+that area was the renovation of Sava Square[^06_Vilenica_A_The_Art_of_FINAL_18], which began by the
 expulsion of female sexual workers from the area, whose place was taken
 over by a new revisionist monument to all war victims and defenders of
 the homeland in the 1990-1999 period, thus equating victims and
@@ -239,7 +241,7 @@ initiated by the Government of Serbia entitled *Belgrade on Water*.
 *Water City* is an elite settlement occupying an area of 96 hectares of
 land, whereas *Belgrade on Water* occupies a considerably larger area of
 around 950 hectares of land, for which, apart from housing, the building
-of business parks and a new port for yachts are also planned.[^05_19] By
+of business parks and a new port for yachts are also planned.[^06_Vilenica_A_The_Art_of_FINAL_19] By
 planning the processes of urban regenerations and involving art and
 cultural industries in the local strategic plans, the new creators of
 optimistic visions wish to make Belgrade a part of the world market of
@@ -261,7 +263,7 @@ studio of Daniel Libeskind, whose biography includes numerous projects
 through which similar processes have been initiated in other cities, and
 the main consultant of the *Belgrade on Water* project is the well-known
 New York mayor Rudolph Giuliani, whose brutal class and racist cleansing
-of New York in the 1990’s is well known.[^05_20] The initial phases of both
+of New York in the 1990’s is well known.[^06_Vilenica_A_The_Art_of_FINAL_20] The initial phases of both
 projects involve the use of art and cultural industries, which play the
 key role in the preparatory phase of changing the function of the area
 in question. They are a part of the marketing strategy for promoting its
@@ -284,7 +286,7 @@ accumulation of capital. In the case of the project *Soho in Belgrade*,
 the bringing of artists to the warehouse had another function in
 addition to the aforementioned one, namely, participation in the process
 of changing the purpose of the space where the port operator is
-located.[^05_21] What this is all about are the efforts of the *Worldfin*
+located.[^06_Vilenica_A_The_Art_of_FINAL_21] What this is all about are the efforts of the *Worldfin*
 company to close down the port through a drastic reduction of its scope
 of business operations, and to effect a symbolic and legal change of its
 function, so as to be able to build a new luxury settlement on that plot
@@ -313,7 +315,7 @@ Port of Belgrade on account of irregularities in the procedure of
 allocating studios to artists. Artists from Soho mobilized themselves in
 defense of the owner of the Port, whom they presented to the public as a
 new patron of the arts who, as opposed to the state, provided artists
-with a *roof above their heads.*[^05_22] It is a fact that the working
+with a *roof above their heads.*[^06_Vilenica_A_The_Art_of_FINAL_22] It is a fact that the working
 conditions of artists, after the degradation of the socialist-era
 mechanisms that enabled artists to obtain a studio, had become almost
 unendurable. However, the artists in question here are not a part of the
@@ -338,7 +340,7 @@ need a working space. This resulted in an unbridgeable gap on the art
 scene, which became visible to the public when the *Sohoites* organized
 a panel discussion at the Kolarac People’s University, in the course of
 which public interest was defended by a group of artists presenting
-themselves as *The World Communal Heritage*. [^05_23]
+themselves as *The World Communal Heritage*. [^06_Vilenica_A_The_Art_of_FINAL_23]
 
 To the present day, the artists in the service of tycoons have not been
 evicted from the studios in the *Srbijateks* warehouse, for the
@@ -349,7 +351,7 @@ Belgrade commenced in August 2013, through the initiation of the
 bankruptcy procedure. Parallel with this, the Government of Serbia,
 through the representatives of the ruling Serbian Progressive Party,
 embarked on a new campaign of promoting the project *Belgrade on
-Water*.[^05_24] It is important to point out that a part of the project
+Water*.[^06_Vilenica_A_The_Art_of_FINAL_24] It is important to point out that a part of the project
 *Belgrade on Water* is being planned on the plot of land held by the
 operator of the Port of Belgrade, which sheds more light on why the
 bankruptcy procedure is being initiated right now, despite the efforts
@@ -384,7 +386,7 @@ The introduction and affirmation of cultural industries and stimulation
 of the development of entrepreneurial creative economy as a form of
 social activism and struggle for the revitalization of Savamala is a
 task set by the project *Mixer*, which includes the eponymous festival
-and the newly opened venue *Mixer House*.[^05_25] Even though *Mixer*
+and the newly opened venue *Mixer House*.[^06_Vilenica_A_The_Art_of_FINAL_25] Even though *Mixer*
 proposes a model of partnership with the business sector, as a practice
 of the *de-etatization* of the creative sector and its *liberation*, in
 a parallel development public budget funds are invested in the project
@@ -407,7 +409,7 @@ hand, “Mixer” is also a form of incubator for producing an army of
 creative workers who are supposed to set the creative industry in
 motion, as a sphere that is broader than cultural industries, in the
 domain of a new urbanization of Belgrade. *Mixer* is deeply involved in
-the processes of the so-called "creative destruction [^05_26] through
+the processes of the so-called "creative destruction [^06_Vilenica_A_The_Art_of_FINAL_26] through
 initiating new mechanisms for the accumulation of capital in the course
 of paving the way for the arrival of investors and the building of
 *Water City*. It is one of those entrepreneurial tactics that glorifies
@@ -421,7 +423,7 @@ Parallel with *Mixer*, the processes of urban regenerations in Savamala
 are also initiated using a somewhat different method, through the
 practices of communal-participative-social art, as a subgroup of the
 creative sector, which are realized within the framework of the Goethe
-Institute project *Urban Incubator*.[^05_27] *Urban Incubator* was
+Institute project *Urban Incubator*.[^06_Vilenica_A_The_Art_of_FINAL_27] *Urban Incubator* was
 presented as a participative model of urban development, whose aim is to
 improve the quality of life of the local population and to *democratize*
 the process of decision-making by means of a higher degree of
@@ -454,22 +456,18 @@ interventions aimed at resolving the systemic problems of Savamala, or
 even resorting to enforced participation or imposing parameters of art
 projects onto the inhabitants of Savamala with the intention of
 "beautifying their living space and increasing the market value of their
-flats".[^05_28] This coupling points to the ideological subtext of
+flats".[^06_Vilenica_A_The_Art_of_FINAL_28] This coupling points to the ideological subtext of
 participative-social-entrepreneurial artistic practices, which can be
 defined as a *culturalisation of politics* or a dislocation of discourse
 on complex and provocative social and political topics into the sphere
-of culture and art.[^05_29] “Urban Incubator” is a symptom of social
+of culture and art.[^06_Vilenica_A_The_Art_of_FINAL_29] “Urban Incubator” is a symptom of social
 architects’ *paranoid fear* of social unrest, and they engage art as a
 *dependable means* of pacifying the accumulated dissatisfaction of the
 inhabitants of Savamala, offering them a promise of a better life, all
 the while, in fact, paving the way for the arrival of real estate
 traders and opening more and more nightclubs and cafés.
 
-## 
-
-## 
-
-## **Conclusion**
+### Conclusion
 
 The transformation of the existing socialist structures and mechanisms
 of cultural and artistic production, as well as the abandonment of
@@ -525,7 +523,7 @@ practices in a state of *insobriety* produced by the social
 transformation and the new rules of the game wherein (artistic and
 cultural) activism becomes an instrument of capital.
 
-**Reference List**
+### Reference List
 
 Barok, Dušan. *On Participatory Art – Interview with Clear Bishop*.
 Prague: Transit Initiative, 29 July 2009.
@@ -574,7 +572,7 @@ Glass, Ruth. *London: Aspects of Change*, London: Centre for Urban
 Studies, 1964.
 
 Grad na vodi – Luka Beograd \[Water City – the Port of Belgrade\].
-<http://www.lukabeograd.com/GradNaVodi/Masterplan.html>
+http://www.lukabeograd.com/GradNaVodi/Masterplan.html
 
 Grlja, Dušan. 'Antinomies of Post-Socialist Autonomy'. *Red Thread*
 (2009), <http://www.red-thread.org/en/article.asp?a=16>
@@ -614,8 +612,7 @@ Routledge, 2009.
 Luka Beograd. Grad na vodi \[The Port of Belgrade – Water City\].
 http://www.lukabeograd.com/GradNaVodi/Masterplan.html
 
-Mikser \[Mixer\]. [http://blog.mikser.rs/o-mikseru. 04th August
-2013](http://blog.mikser.rs/o-mikseru.%2004.%20avgust%202013).
+Mikser \[Mixer\]. http://blog.mikser.rs/o-mikseru. 04th August 2013.
 
 Monthoux, Pierre Guillet de. 'Organising Reality Machines: Artepreneurs
 and the new Aesthetic Enlightenment', in Hjorth, Daniel (ed.) *Handbook
@@ -667,7 +664,7 @@ United Nations Creative Economy Report (UN CER), United Nations, 2008
 Urban Incubator Belgrade,
 <http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm>.
 
-C5 – School of Urban Practices. <http://projectc5.blogspot.it/>
+C5 – School of Urban Practices. http://projectc5.blogspot.it/
 
 'Uskoro novo lice Savskog trga \[Soon, a New Look of Sava Square\]',
 *Blic*, 28 November 2011.
@@ -690,8 +687,8 @@ Vuksanović-Macura, Zlata. *Život na ivici – Stanovanje sirotinje u
 Beogradu 1919–1941* \[*Living on the Edge – The Housing of the Poor in
 Belgrade 1919-1941*\], Belgrade: Orion Art, 2012.
 
-World Bank. *Entrepreneurship Snapshots 2010: Measuring the Impact of
-the Financial Crisis on new Business registration*, 2011.
+World Bank. *Entrepreeurship Snapshots 2010: Measuring the Impact of the
+Financial Crisis on new Business registration*, 2011.
 
 Yudice, George. *The Expediency of Culture, Uses of Culture in the
 Global Era*, Durham and London: Duke University Press, 2003.
@@ -706,100 +703,99 @@ Blackwell, 1995.
 Water, Loans\]', *B92*, 12 December 2013,
 <http://www.b92.net/biz/vesti/srbija.php?yyyy=2013&mm=12&dd=12&nav_id=788601>
 
-[^05_1]: Raúl Zibechi, *Territories in Resistance – A Cartography of Latin
-    American Social Movements*, Edinburgh: AK Press, 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_1]: Raúl Zibechi, Territories in Resistance – A Cartography of Latin
+    American Social Movements, Edinburgh: AK Press, 2012.
 
-[^05_2]: Harvey (2012); Berry Slater and Illes (2010); Pasquinelli (2012).
+[^06_Vilenica_A_The_Art_of_FINAL_2]: Harvey (2012); Berry Slater and Illes (2010); Pasquinelli (2012).
 
-[^05_3]: Jameson (1995), Vilenica (2012).
+[^06_Vilenica_A_The_Art_of_FINAL_3]: Jameson (1995), Vilenica (2012).
 
-[^05_4]: Rosalyn Deutsche and Gandel Cara Rian, 'The fine art of
-    gentrification', *October* 31 (Winter, 1984): 91–111.
+[^06_Vilenica_A_The_Art_of_FINAL_4]: Rosalyn Deutsche and Gandel Cara Rian, 'The fine art of
+    gentrification', October 31 (Winter, 1984): 91–111.
 
-[^05_5]: David Harvey, *Rebel Cities: From the Right to the City to the
-    Urban Revolution*, London: Verso, 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_5]: David Harvey, Rebel Cities: From the Right to the City to the
+    Urban Revolution, London: Verso, 2012.
 
-[^05_6]: Ana Vilenica and kuda.org, 'Preuzmimo grad! Kako? \[Let’s Take
-    Over the City! How?\]' inVilenica, Ana, kuda.org. *Na ruševinama
-    kreativnog grada*. Novi Sad: kuda.org, 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_6]: Ana Vilenica and kuda.org, 'Preuzmimo grad! Kako? \[Let’s Take
+    Over the City! How?\]' inVilenica, Ana, kuda.org. Na ruševinama
+    kreativnog grada. Novi Sad: kuda.org, 2012.
 
-[^05_7]: Neil Smith, *New Urban Frontier: Gentrification and the Revanchist
-    City*, London: Routledge, 1996.
+[^06_Vilenica_A_The_Art_of_FINAL_7]: Neil Smith, New Urban Frontier: Gentrification and the Revanchist
+    City, London: Routledge, 1996.
 
-[^05_8]: Florida (2005), UN CER (2008), Švob-Đokić (2005).
+[^06_Vilenica_A_The_Art_of_FINAL_8]: Florida (2005), UN CER (2008), Švob-Đokić (2005).
 
-[^05_9]: Inga Tomić-Koludrović, Mirko Petrić, 'Creative Industries in
+[^06_Vilenica_A_The_Art_of_FINAL_9]: Inga Tomić-Koludrović, Mirko Petrić, 'Creative Industries in
     Transition: Towards a Creative Economy?', in Nada Švob-Đokić, Nada
-    (ed.), *The Emerging Creative industries in Southeastern Europe*,
+    (ed.), The Emerging Creative industries in Southeastern Europe,
     Zagreb: Institute for International Relations, 2005.
 
-[^05_10]: Vida Knežević, Marko Miletić, 'Beograd 2020. – Grad čuda, nova
-    kulturna politika u Srbiji i prostori borbe \[*Belgrade 2020 – A
-    City of Wonder, the New Cultural Policy in Serbia and the Spaces of
-    Struggle*\]' in Ana Vilenica, kuda.org. *Na ruševinama kreativnog
-    grada* \[*On the Ruins of the Creative City*\]. Novi Sad: kuda.org,
+[^06_Vilenica_A_The_Art_of_FINAL_10]: Vida Knežević, Marko Miletić, 'Beograd 2020. – Grad čuda, nova
+    kulturna politika u Srbiji i prostori borbe \[Belgrade 2020 – A City
+    of Wonder, the New Cultural Policy in Serbia and the Spaces of
+    Struggle\]' in Ana Vilenica, kuda.org. Na ruševinama kreativnog
+    grada \[On the Ruins of the Creative City\]. Novi Sad: kuda.org,
     2012.
 
-[^05_11]: Ana Vilenica and kuda.org, 'Preuzmimo grad! Kako? \[Let’s Take
+[^06_Vilenica_A_The_Art_of_FINAL_11]: Ana Vilenica and kuda.org, 'Preuzmimo grad! Kako? \[Let’s Take
     Over the City! How?\]' inVilenica, Ana,
 
-    kuda.org. *Na ruševinama kreativnog grada*. Novi Sad: kuda.org,
-    2012.
+    kuda.org. Na ruševinama kreativnog grada. Novi Sad: kuda.org, 2012.
 
-[^05_12]: Dušan Grlja, 'Antinomies of Post-Socialist Autonomy', *Red
-    Thread* (2009),
+[^06_Vilenica_A_The_Art_of_FINAL_12]: Dušan Grlja, 'Antinomies of Post-Socialist Autonomy', Red Thread
+    (2009),
     [http://www.red-thread.org/en/article.asp?a=16](../customXml/item1.xml)
 
-[^05_13]: Pierre Guillet de Monthoux, 'Organising Reality Machines:
+[^06_Vilenica_A_The_Art_of_FINAL_13]: Pierre Guillet de Monthoux, 'Organising Reality Machines:
     Artepreneurs and the new Aesthetic Enlightenment' in Daniel Hjorth
-    (ed.) *Handbook on Organisational Entrepreneurship*, Northampton:
+    (ed.) Handbook on Organisational Entrepreneurship, Northampton:
     Edward Elgar, 2012.
 
-[^05_14]: Campbell Jones, Anna-Maria Murtola, 'Entrepreneurship, Crisis,
-    Critique', in Daniel Hjorth (ed.), *Handbook on Organisational
-    Entrepreneurship*, Edward Elgar: Northampton, 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_14]: Campbell Jones, Anna-Maria Murtola, 'Entrepreneurship, Crisis,
+    Critique', in Daniel Hjorth (ed.), Handbook on Organisational
+    Entrepreneurship, Edward Elgar: Northampton, 2012.
 
-[^05_15]: 'Beograd na vodi ili političari u kampanji \[Belgrade on Water or
-    Politicians Campaigning\]', *Politika*, 11 August 2013,
+[^06_Vilenica_A_The_Art_of_FINAL_15]: 'Beograd na vodi ili političari u kampanji \[Belgrade on Water or
+    Politicians Campaigning\]', Politika, 11 August 2013,
     [http://www.politika.rs/rubrike/Beograd/Beograd-na-vodi-ili-politicari-u-kampanji.lt.html](numbering.xml)
 
-[^05_16]: Miloš Jovanović, *Constructing the National Capital,* master
-    diss., CEU, Budapest, Hungary, 2008.
+[^06_Vilenica_A_The_Art_of_FINAL_16]: Miloš Jovanović, Constructing the National Capital, master diss.,
+    CEU, Budapest, Hungary, 2008.
 
-[^05_17]: Zlata Vuksanović-Macura, *Život na ivici – Stanovanje sirotinje u
-    Beogradu 1919–1941* \[*Living on the Edge – The Housing of the Poor
-    in Belgrade 1919-1941*\], Belgrade: Orion Art, 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_17]: Zlata Vuksanović-Macura, Život na ivici – Stanovanje sirotinje u
+    Beogradu 1919–1941 \[Living on the Edge – The Housing of the Poor in
+    Belgrade 1919-1941\], Belgrade: Orion Art, 2012.
 
-[^05_18]: 'Uskoro novo lice Savskog trga \[Soon, a New Look of Sava
-    Square\]', *Blic*, 28 November 2011,
+[^06_Vilenica_A_The_Art_of_FINAL_18]: 'Uskoro novo lice Savskog trga \[Soon, a New Look of Sava
+    Square\]', Blic, 28 November 2011,
 
-[^05_19]: *Večernje novosti*, 14 October 2013, *Politika*, 11 August 2013,
+[^06_Vilenica_A_The_Art_of_FINAL_19]: Večernje novosti, 14 October 2013, Politika, 11 August 2013,
     “Water City” – the Port of Belgrade, 2010.
 
-[^05_20]: Smith, 1996, *Politika*, 11 September 2012.
+[^06_Vilenica_A_The_Art_of_FINAL_20]: Smith, 1996, Politika, 11 September 2012.
 
-[^05_21]: Ana Vilenica, 'Soho u Beogradu – Umetnička elita u službi tajkuna
+[^06_Vilenica_A_The_Art_of_FINAL_21]: Ana Vilenica, 'Soho u Beogradu – Umetnička elita u službi tajkuna
     \[Soho in Belgrade – The Art Elite in the Service of Tycoons\]' in
     Maribor 2012, 14 September, 2011.
     http://82.149.22.226/\~mobcinamb/index.php?ptype=8&menu=0&id=220&Pid=617.
 
-[^05_22]: Ibid.
+[^06_Vilenica_A_The_Art_of_FINAL_22]: Ibid.
 
-[^05_23]: Ibid.
+[^06_Vilenica_A_The_Art_of_FINAL_23]: Ibid.
 
-[^05_24]: 'Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure
-    Initiated for the Port of Belgrade\]', *Vreme*, 6 August 2013,
+[^06_Vilenica_A_The_Art_of_FINAL_24]: 'Pokrenut stečaj Luke Beograd \[The Bankruptcy Procedure
+    Initiated for the Port of Belgrade\]', Vreme, 6 August 2013,
     [http://www.vreme.rs/cms/view.php?id=1130342](styles.xml).
 
-[^05_25]: Mikser \[Mixer\]. http://blog.mikser.rs/o-mikseru, 4 August 2013.
+[^06_Vilenica_A_The_Art_of_FINAL_25]: Mikser \[Mixer\]. http://blog.mikser.rs/o-mikseru, 4 August 2013.
 
-[^05_26]: Berman (1988), Harvey (1992).
+[^06_Vilenica_A_The_Art_of_FINAL_26]: Berman (1988), Harvey (1992).
 
-[^05_27]: Urban Incubator Belgrade.
-    [http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm](settings.xml)
+[^06_Vilenica_A_The_Art_of_FINAL_27]: Urban Incubator Belgrade.
+    [http://www.goethe.de/ins/cs/bel/prj/uic/enindex.htm](stylesWithEffects.xml)
 
-[^05_28]: C5 – School of Urban Practices.
-    [http://projectc5.blogspot.it/](webSettings.xml).
+[^06_Vilenica_A_The_Art_of_FINAL_28]: C5 – School of Urban Practices.
+    [http://projectc5.blogspot.it/](settings.xml).
 
-[^05_29]: George Yudice, *The Expediency of Culture, Uses of Culture in the
-    Global Era*, Durham and London: Duke University Press, 2003.
+[^06_Vilenica_A_The_Art_of_FINAL_29]: George Yudice, The Expediency of Culture, Uses of Culture in the
+    Global Era, Durham and London: Duke University Press, 2003.

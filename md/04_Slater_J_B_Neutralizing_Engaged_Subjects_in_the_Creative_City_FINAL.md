@@ -17,9 +17,9 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Josephine Berry Slater
+Josephine Berry Slater
 
-# Neutralizing Engaged Subjects in the Creative City
+## NEUTRALIZING ENGAGED SUBJECTS IN THE CREATIVE CITY
 
 This article is a version of a lecture given by the author in the course
 Biopolitics and Aesthetics, Centre for Cultural Studies at Goldsmiths
@@ -105,12 +105,12 @@ getting too distracted by the detail of his schema, what Foucault seizes
 on is how he draws together the problems of sovereignty with a set of
 specifically urban problematics. He writes,
 
-> In short, the interesting thing is Le Maitre dreams of connecting the
-> political effectiveness of sovereignty to a spatial distribution. A
-> good sovereign, be it a collective or individual sovereign, is someone
-> well placed within a territory, and a territory that is well policed
-> in terms of its obedience to the sovereign is a territory that has a
-> good spatial layout.[^03_1]
+In short, the interesting thing is Le Maitre dreams of connecting the
+political effectiveness of sovereignty to a spatial distribution. A good
+sovereign, be it a collective or individual sovereign, is someone well
+placed within a territory, and a territory that is well policed in terms
+of its obedience to the sovereign is a territory that has a good spatial
+layout.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_1]
 
 For Le Maitre, the capital city is the ultimate arena for the production
 of an ideal set of spatial conditions of sovereignty, and the exemplary
@@ -140,27 +140,27 @@ opposed to the ‘disciplinary’ structuring of space (here he means, the
 hierarchical spatial orderings of the Middle Ages) the securitized
 structuring of space ‘will try to plan a milieu in terms of events or
 series of events or possible elements, \[…\] that will have to be
-regulated within a multivalent and transformable network.’[^03_2] He
+regulated within a multivalent and transformable network.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_2] He
 ventures a further definition: ‘The space in which a series of uncertain
-elements unfold is, I think, roughly what one can call the milieu.’[^03_3]
+elements unfold is, I think, roughly what one can call the milieu.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_3]
 Borrowing the concept of ‘milieu’ from biology, and imposing it
 retrospectively onto the problem of city planning in this era of 17^th^
 century *Raison d’Etat*, Foucault continues,
 
-> The milieu is a certain number of combined overall effects bearing on
-> all who live in it. It is an element in which a circular link is
-> produced between effects and causes… More disease will obviously mean
-> more deaths. More deaths will mean more cadavers and consequently more
-> miasmas, and so on. \[…\] Finally, the milieu appears as a field of
-> intervention in which, instead of affecting individuals as a set of
-> legal subjects capable of voluntary actions \[…\] or as a multiplicity
-> of organisms, of bodies capable of performances – one tries to affect,
-> precisely, a population. I mean a multiplicity of individuals who are
-> and fundamentally and essentially only exist biologically bound to the
-> materiality within which they live. \[…\] What one tries to reach
-> through this milieu, is precisely the conjunction of a series of
-> events produced by these individuals, population, and groups and quasi
-> natural events which occur around them.[^03_4]
+The milieu is a certain number of combined overall effects bearing on
+all who live in it. It is an element in which a circular link is
+produced between effects and causes… More disease will obviously mean
+more deaths. More deaths will mean more cadavers and consequently more
+miasmas, and so on. \[…\] Finally, the milieu appears as a field of
+intervention in which, instead of affecting individuals as a set of
+legal subjects capable of voluntary actions \[…\] or as a multiplicity
+of organisms, of bodies capable of performances – one tries to affect,
+precisely, a population. I mean a multiplicity of individuals who are
+and fundamentally and essentially only exist biologically bound to the
+materiality within which they live. \[…\] What one tries to reach
+through this milieu, is precisely the conjunction of a series of events
+produced by these individuals, population, and groups and quasi natural
+events which occur around them.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_4]
 
 In this lecture series, Foucault goes on to argue and demonstrate how
 this urban model of sovereignty, one that he says is extended
@@ -225,11 +225,11 @@ single soul, and conversely, the single soul must be sacrificed for the
 salvation of the flock – an economy of souls in which every individual
 matters. With biopower, what we see is the state intervening only
 
-> To regulate, or rather to allow the well-being, the interest of each
-> to adjust itself in such a way that it can actually serve all. The
-> state is envisioned as the regulator of interests and no longer as the
-> transcendent and synthetic principle of the transformation of the
-> happiness of each into the happiness of all.[^03_5]
+To regulate, or rather to allow the well-being, the interest of each to
+adjust itself in such a way that it can actually serve all. The state is
+envisioned as the regulator of interests and no longer as the
+transcendent and synthetic principle of the transformation of the
+happiness of each into the happiness of all.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_5]
 
 In this respect, the individual ceases to be important, and of interest;
 but the conditions affecting the mass of interactions between
@@ -317,7 +317,7 @@ revenue to local governments from property taxes and the displacement of
 lower income populations. The advent of ‘urban regeneration’ in the
 early 1980s was largely a state-led response to the blighting of the
 inner city in the wake of the twin phenomena of deindustrialization and
-suburbanization.[^03_6] In the UK, it was also part of a governmental
+suburbanization.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_6] In the UK, it was also part of a governmental
 response to a virulent wave of riots that erupted across Britain’s
 streets in the summer of 1981, from London’s Brixton, Liverpool’s
 Toxteth, Birmingham’s Handsworth, to Leeds’ Chapeltown. During this hot
@@ -331,9 +331,9 @@ who were subjected to discriminatory and heavy-handed policing, under
 ‘sus’ law – the police power to stop and search preemptively, purely on
 the basis of suspicion. Poet, Levi Tafari put it this way:
 
-> Living inna Liverpool is living in hell look pon the places where we
-> have fe dwell them have we under a political spell bad housing
-> unemployment and the depression as well.[^03_7] (Tafari, L., 1989)
+Living inna Liverpool is living in hell look pon the places where we
+have fe dwell them have we under a political spell bad housing
+unemployment and the depression as well.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_7] (Tafari, L., 1989)
 
 And how did the British state respond to the uprising and discontent of
 significant pockets of its population? Then Secretary of the
@@ -385,17 +385,16 @@ Actions such as these expose the state’s ultimate externality to its own
 laws which must, Foucault argues, be temporarily suspended in order to
 attain the very ends of the state, namely its perpetuation. (We should
 note, however, that Agamben sees the state of exception as having become
-sovereignty’s permanent condition of operation within capitalism).[^03_8]
+sovereignty’s permanent condition of operation within capitalism).[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_8]
 Quoting Chemnitz, the 17^th^ century political theorist, Foucault
 describes the relationship of the state to its own laws thus:
 
-> In fact, raison d’Etat must command, not by ‘sticking to the laws,’
-> but, if necessary, it must command ‘the laws themselves, which must
-> adapt to the present state of the republic’. So, the coup d’Etat does
-> not break with raison d’Etat. It is an element, an event, a way of
-> doing things that, as something that breaches the laws \[…\] falls
-> entirely within the general horizon, the general form of raison
-> d’Etat.[^03_9]
+In fact, raison d’Etat must command, not by ‘sticking to the laws,’ but,
+if necessary, it must command ‘the laws themselves, which must adapt to
+the present state of the republic’. So, the coup d’Etat does not break
+with raison d’Etat. It is an element, an event, a way of doing things
+that, as something that breaches the laws \[…\] falls entirely within
+the general horizon, the general form of raison d’Etat.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_9]
 
 The coup d’Etat itself must happen almost without the population
 knowing, under the blanket of darkness and secrecy, presenting it with a
@@ -411,11 +410,11 @@ maintaining control and boosting the co-operation and productive
 activity of its subjects. Speaking of the development of policing in the
 17^th^ century, during the emergence of raison d’Etat, Foucault writes,
 
-> So with the police there is a circle that starts from the state as a
-> power of rational and calculated intervention on individuals and comes
-> back to the state as a growing set of forces, or forces to be
-> developed, passing through the life of individuals, which will now be
-> precious to the state simply as life.[^03_10]
+So with the police there is a circle that starts from the state as a
+power of rational and calculated intervention on individuals and comes
+back to the state as a growing set of forces, or forces to be developed,
+passing through the life of individuals, which will now be precious to
+the state simply as life.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_10]
 
 He goes on to say that this circle will pass through more than just the
 life of individuals, but through their ‘convenience’, their ‘amenity’,
@@ -425,9 +424,9 @@ and control of the dense interactions between individuals, especially in
 the towns and cities. This concern for the individual’s ‘better than
 just living’ he writes,
 
-> Must in some way be drawn on and constituted into state utility:
-> making men’s happiness the state’s utility, making men’s happiness the
-> very strength of the state.[^03_11]
+Must in some way be drawn on and constituted into state utility: making
+men’s happiness the state’s utility, making men’s happiness the very
+strength of the state.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_11]
 
 Although Foucault describes the police state as a 17^th^ century
 phenomenon, something which recedes firstly within the ideology of
@@ -454,7 +453,7 @@ take-over of life. Instead, she argues, it is a modality that possesses
 a positive and not merely repressive relation to life. ‘My claim’, she
 writes, ‘is that biopolitics is defined by the fact that rather than
 merely relating to life, it takes on the way life itself functions; that
-it functions like life in order to be better able to regulate it.’[^03_12]
+it functions like life in order to be better able to regulate it.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_12]
 So there are positive and pleasurable aspects to the governmental
 subsumption of life – its life-like activity – that relate to art’s
 desire to be more like-life and less like the moribund objects within
@@ -485,7 +484,7 @@ both realms, namely the concepts of ‘engagement’ and ‘openness’.
 
 In a recent interview about making art in the context of regeneration
 with the artist Alberto Duman, we discussed how the ‘hard object’ had
-been relegated in public art practice over the last decade or so.[^03_13]
+been relegated in public art practice over the last decade or so.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_13]
 He drew attention to how the sculptural tradition in public art has
 given way to ‘a situation where everything but the object is the way to
 do public art’, the normativity of which he finds disturbing. According
@@ -498,17 +497,17 @@ reminded of how this development was unequivocally linked to progressive
 social effects, and actively delinked from the development agendas we
 now see harnessing it. She writes,
 
-> As public art shifted away from large-scale objects, to physically or
-> conceptually site specific projects, to audience specific concerns
-> (work made in response to those who occupy a given site), it moved
-> from an aesthetic function, to a design function, to a social
-> function. Rather than serving to promote the economic development of
-> American cities, as did public art beginning in the late 1960s, it is
-> now being viewed as a means of stabilizing community development
-> through urban centers. In the 1990s the role of public art has shifted
-> from that of renewing the physical environment to that of improving
-> society, from promoting aesthetic quality to contributing to the
-> quality of life, from enriching lives to saving lives.[^03_14]
+As public art shifted away from large-scale objects, to physically or
+conceptually site specific projects, to audience specific concerns (work
+made in response to those who occupy a given site), it moved from an
+aesthetic function, to a design function, to a social function. Rather
+than serving to promote the economic development of American cities, as
+did public art beginning in the late 1960s, it is now being viewed as a
+means of stabilizing community development through urban centers. In the
+1990s the role of public art has shifted from that of renewing the
+physical environment to that of improving society, from promoting
+aesthetic quality to contributing to the quality of life, from enriching
+lives to saving lives.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_14]
 
 What is interesting here is not only how she counters socially-oriented
 public art to economic development, but also how governmental her
@@ -535,21 +534,20 @@ spectacle. Speaking of the wish to abolish the separation of active
 performers from passive spectators, or between the spaces of art and
 everyday life, in avant-garde theatre he says,
 
-> But the redistribution of places is one thing; the requirement that
-> theatre assign itself the goal of assembling a community which ends
-> the separation of the spectacle is quite another. The first involves
-> the invention of new intellectual adventures, the second a new form of
-> allocating bodies to their rightful place, which, in the event, is
-> their place of communion.[^03_15]
+But the redistribution of places is one thing; the requirement that
+theatre assign itself the goal of assembling a community which ends the
+separation of the spectacle is quite another. The first involves the
+invention of new intellectual adventures, the second a new form of
+allocating bodies to their rightful place, which, in the event, is their
+place of communion.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_15]
 
 Rejecting the self-imposed necessity of theatre to literalize the
 ‘community’ of spectators occupying the theatre at any one time,
 Rancière argues that, to the contrary,
 
-> In a theatre, in front of a performance, just as in a museum, school
-> or street, there are only ever individuals plotting their own paths in
-> the forest of things, acts and signs that confront or surround
-> them.[^03_16]
+In a theatre, in front of a performance, just as in a museum, school or
+street, there are only ever individuals plotting their own paths in the
+forest of things, acts and signs that confront or surround them.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_16]
 
 Art, he is arguing need not and should not strive to create a
 collectivity of its spectators. Art that attempts this fails to
@@ -557,7 +555,7 @@ recognize the capacity that has always already joined people across
 boundaries, namely, the ‘shared power of the equality of intelligence’
 which ‘makes them exchange their intellectual adventures, in so far as
 it keeps them separate from one another, equally capable of using the
-power everyone has to plot her own path.’[^03_17] It is easy to see the
+power everyone has to plot her own path.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_17] It is easy to see the
 potential overlaps between the community creating desires of
 avant-gardism which neglect the singularity of the viewer’s experience
 and thought, and the desire of the New Labour government to create a
@@ -600,7 +598,7 @@ regeneration or ‘social conflict zones’ as that of appeasement. He says,
 ‘The artist, very often is called in with a fairly backward idea that
 art has the capacity to negotiate, be a meeting place, art is a space
 where differences are negotiated because it can transcend the specifics
-of the situation, of time and space.’[^03_18] And yet, he is keen to point
+of the situation, of time and space.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_18] And yet, he is keen to point
 out, this negotiating capacity of art is wielded from one side, namely
 by those who are driving the process of regeneration. As with the Big
 Society, public engagement is solicited just at the moment when the
@@ -639,21 +637,21 @@ aesthetic rights’ hinges on the idea, linked to the blurring of art and
 life, that the classical avant-garde ‘has struggled to achieve
 recognition of all signs, forms, and things as legitimate objects of
 artistic desire and, hence, also as legitimate objects of representation
-in art.’[^03_19] He sees a parallel between the aesthetic struggle for
+in art.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_19] He sees a parallel between the aesthetic struggle for
 recognition, and the political struggle for the recognition and
 inclusion of all minorities. Within art, however, the thought that
 anything can potentially be recognized as art potentially leads to an
 entropic game where each artwork appears to be simply an arbitrary and
 unnecessary extension or iteration of this field of equal rights.
 However, he argues, art today ‘operates in the gap between the formal
-equality of all art forms and their factual inequality.’[^03_20] So, while
+equality of all art forms and their factual inequality.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_20] So, while
 recognizing the potential legitimacy of anything as art, in reality not
 everything is considered as such and admitted into the museum or the
 canon. ‘The good artwork’, he continues, ‘is precisely that work which
 affirms the formal equality of all images under the conditions of their
 factual inequality. This gesture is always contextual and historically
 specific, but it also has paradigmatic importance as a model for further
-repetition of the gesture.’[^03_21] I think Duman’s work strikes just such
+repetition of the gesture.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_21] I think Duman’s work strikes just such
 a balance, elevating the readymade plastic sign to a higher power which
 implies the potential elevation of any profane object, whilst mobilizing
 this banal object to signify the factual exclusion of former inhabitants
@@ -678,7 +676,7 @@ as chairman for the US Business Committee for the Arts in the 80s Winton
 Blount once said, business can also travel. Fighting trade regulations,
 taxation and overt government control was not just a civic duty, he
 argued, but a means of keeping ‘open those avenues of freedom along
-which art and commerce both travel.’[^03_22]
+which art and commerce both travel.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_22]
 
 Roman Vasseur, Lead Artist appointed to oversee the redevelopment of
 Harlow New Town, has argued, this reversibility of openness can also
@@ -687,7 +685,7 @@ creative-led regeneration. ‘One can envisage a future’ he says, ‘where
 artists, or individuals with an extensive training in the visual arts
 and art history will be slowly moved out of this new economy in favor of
 “creatives” able to privilege deliverability and consultation over other
-concerns.’[^03_23] It is worth considering how the energies that drive the
+concerns.’[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_23] It is worth considering how the energies that drive the
 privileging of openness as an aesthetic, technical, economic and social
 form waver between the political horizon of inclusion and the degraded,
 flattening equivalence of the value form. This has the interesting
@@ -708,7 +706,7 @@ milieu, engagement and participation, admitting as much to the factual
 absence of these realities as to the potential for their potential in a
 wholly unspecified future form.
 
-**Reference List**
+### Reference List
 
 Agamben, Giorgio. *Homo Sacer: Sovereign Power and Bare Life*, Stanford
 University Press, 1998.
@@ -730,61 +728,61 @@ Rancière, Jacques. *The Emancipated Spectator*, Verso, 2011.
 Slater, Josephine Berry & Iles, Anthony. *No Room to Move: Radical Art
 and the Regenerate City*, Mute Books, 2010.
 
-[^03_1]: Michel Foucault, *Security, Territory, Population: Lectures at the
-    Collège de France 1977-1978*, Picador / Palgrave Macmillan, 2007,
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_1]: Michel Foucault, Security, Territory, Population: Lectures at the
+    Collège de France 1977-1978, Picador / Palgrave Macmillan, 2007,
     p.14.
 
-[^03_2]: Ibid., p.20.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_2]: Ibid., p.20.
 
-[^03_3]: Ibid.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_3]: Ibid.
 
-[^03_4]: Ibid., p.21.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_4]: Ibid., p.21.
 
-[^03_5]: Ibid., p.346.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_5]: Ibid., p.346.
 
-[^03_6]: For a longer development of these arguments and history see,
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_6]: For a longer development of these arguments and history see,
     Josephine Berry Slater & Anthony Iles, *No Room to Move: Radical Art
     and the Regenerate City*, Mute Books, 2010
 
-[^03_7]: L. Tafari (1989).
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_7]: L. Tafari (1989).
 
-[^03_8]: Cf Giorgio Agamben, *Homo Sacer: Sovereign Power and Bare Life*,
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_8]: Cf Giorgio Agamben, Homo Sacer: Sovereign Power and Bare Life,
     Stanford University Press, 1998.
 
-[^03_9]: Ibid., pp. 261-262
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_9]: Ibid., pp. 261-262
 
-[^03_10]: Ibid., p.327.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_10]: Ibid., p.327.
 
-[^03_11]: Ibid.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_11]: Ibid.
 
-[^03_12]: Maria Muhle in ‘Qu-est-ce Que la Biopolitique?: A Conversation on
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_12]: Maria Muhle in ‘Qu-est-ce Que la Biopolitique?: A Conversation on
     Theories of Biopolitics between Thomas Lemke and Maria Muhle,
-    moderated by André Rottman’, *Texte Zur Kunst*, 73 (March, 2009),
+    moderated by André Rottman’, Texte Zur Kunst, 73 (March, 2009),
     p.136.
 
-[^03_13]: Cf ‘Interview with Alberto Duman’, in *No Room to Move*, op.
-    cit., pp.58-79.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_13]: Cf ‘Interview with Alberto Duman’, in No Room to Move, op. cit.,
+    pp.58-79.
 
-[^03_14]: Jane Jacob, cited in Miwon Kwon, *One Place After Another: Site
-    Specific Art and Locational Identity*, MIT Press, 2004, p.111.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_14]: Jane Jacob, cited in Miwon Kwon, One Place After Another: Site
+    Specific Art and Locational Identity, MIT Press, 2004, p.111.
 
-[^03_15]: Jacques Rancière, *The Emancipated Spectator*, Verso, 2011, p.15.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_15]: Jacques Rancière, The Emancipated Spectator, Verso, 2011, p.15.
 
-[^03_16]: Ibid.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_16]: Ibid.
 
-[^03_17]: Ibid., p.17.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_17]: Ibid., p.17.
 
-[^03_18]: Alberto Duman, in *No Room to Move*, op. cit.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_18]: Alberto Duman, in No Room to Move, op. cit.
 
-[^03_19]: Boris Groys, ‘Equal Aesthetic Rights’, in *Art Power*, MIT
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_19]: Boris Groys, ‘Equal Aesthetic Rights’, in Art Power, MIT
     (2008):14.
 
-[^03_20]: Ibid., p.16.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_20]: Ibid., p.16.
 
-[^03_21]: Ibid.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_21]: Ibid.
 
-[^03_22]: Cited in Chin-tao Wu, 'Embracing the Enterprise Culture’, *New
-    Left Review* 230 (1998): 30.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_22]: Cited in Chin-tao Wu, 'Embracing the Enterprise Culture’, New
+    Left Review 230 (1998): 30.
 
-[^03_23]: Roman Vasseur in ‘Interview with Roman Vasseur’, in *No Room to
-    Move*, p.114.
+[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_23]: Roman Vasseur in ‘Interview with Roman Vasseur’, in No Room to
+    Move, p.114.

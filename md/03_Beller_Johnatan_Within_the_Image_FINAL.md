@@ -17,21 +17,19 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Jonathan Beller
+Jonathan Beller
 
-# Within the Image
+## WITHIN THE IMAGE
 
-Portions of this essay were originally published as
-
-"Wagers Within the Image: Rise of Visuality, Transformation of Labour,
-Aesthetic Regimes" in Culture Machine, vol. 12, 2012;
-http://www.culturemachine.net
+Portions of this essay were originally published as "Wagers Within the
+Image: Rise of Visuality, Transformation of Labour, Aesthetic Regimes"
+in Culture Machine, vol. 12, 2012; http://www.culturemachine.net
 
 Let us examine a few consequences of the industrialization of the
 visual. As IPO after IPO seem to demonstrate, to look is to labor:
 looking itself is posited as value-productive labor. We know this now.
 In the cinematic mode of production this generalizes to what I called
-‘the attention theory of value’.[^02-Beller-WithintheImage_1] Today, after the internet
+‘the attention theory of value’.[^03_Beller_Johnatan_Within_the_Image_FINAL_1] Today, after the internet
 revolution (or, perhaps equally, counter-revolution), this relation
 between screen-time and social production is increasingly pre-supposed.
 Of course the energy levels, control modules and digitized metrics of
@@ -104,7 +102,7 @@ revamping of ‘the soul’ (or of soullessness – as the case often seems to
 be). Workers, prosumers, playborers and those described by Flusser in a
 different context as ‘functionaries’ (those who work within the
 programme of the camera) ready themselves and are thereby readied for
-the developing exigencies of the market.[^02-Beller-WithintheImage_2]
+the developing exigencies of the market.[^03_Beller_Johnatan_Within_the_Image_FINAL_2]
 
 3\. Over time visuo-attentional transformations as indexed by emerging
 media technologies reorganize (i.e., reprogramme) language-function
@@ -112,13 +110,13 @@ along with the imaginary and performativity such that the daily
 retoolings can be dialectically incorporated into or functionalized by
 the daily advances in technical interfaces. Althusserian ‘know-how,’ the
 capacity to work for capital produced in schools and other ‘ideological
-state apparatuses’,[^02-Beller-WithintheImage_3] receives ever more penetrating and subtle
+state apparatuses’,[^03_Beller_Johnatan_Within_the_Image_FINAL_3] receives ever more penetrating and subtle
 elaboration through the techno- capitalist capture of the
 ‘cognitive-linguistic.’ It thus participates in what Virno, giving new
 life to a term from Marx, effectively identifies as the subsumption of
-‘the general intellect’.[^02-Beller-WithintheImage_4] In a recent remark, Zizek has noted that
+‘the general intellect’.[^03_Beller_Johnatan_Within_the_Image_FINAL_4] In a recent remark, Zizek has noted that
 what Bill Gates accomplished with proprietary software was the
-privatization of part of the general intellect, which we now rent.[^02-Beller-WithintheImage_5]
+privatization of part of the general intellect, which we now rent.[^03_Beller_Johnatan_Within_the_Image_FINAL_5]
 The result is that privatized media are omnipresent in the praxis of
 consciousness, never more than a couple of interfaces away from any and
 all attentional practices, such that attention to any aspect of life
@@ -149,12 +147,12 @@ West Africa’s Mano River War’ argues that the spectacular crimes against
 others in the region are precisely that: spectacles of maiming and mass
 murder designed to garner attention in a world-media system (which
 includes broadcast news, the internet and the U.N.) that rewards Africa
-for specific kinds of self-production.[^02-Beller-WithintheImage_6] As Hoffman demonstrates
+for specific kinds of self-production.[^03_Beller_Johnatan_Within_the_Image_FINAL_6] As Hoffman demonstrates
 through a close analysis of photographic and videographic materials,
 ‘This was a war structured by the economy of attention. To profit in
 this economy, combatants and non- combatants were required to play to an
 audience that they knew was there, but often could only sense or
-apprehend in the most abstract way’.[^02-Beller-WithintheImage_7] Although this should be obvious
+apprehend in the most abstract way’.[^03_Beller_Johnatan_Within_the_Image_FINAL_7] Although this should be obvious
 it bears emphasizing: just because there is no computer in the room does
 not mean that one escapes its programme.
 
@@ -167,7 +165,7 @@ simply, race, gender, nationality and other ‘socio-historical’
 categories must therefore be thought in their economic determinations
 within (and in excess of) the attention economy.
 
-## Within the Image / The System of Global Apartheid
+### Within the Image / The System of Global Apartheid
 
 The increasing power of visual and digital media gave rise to new forms
 of cultural imperialism (which, in case there was ever any doubt, is
@@ -177,7 +175,7 @@ the emergence of what he calls the ‘videosphere’ which overtakes the
 ‘logosphere’ in the 19th century and Nick Mirzoeff in The Right to Look
 identifies complexes of visuality spanning the plantation (1660-1865),
 imperialism (1857-1947), and military industrialism (1945-present,
-Mirzoeff’s periodizations).[^02-Beller-WithintheImage_8] We can clearly grasp from this
+Mirzoeff’s periodizations).[^03_Beller_Johnatan_Within_the_Image_FINAL_8] We can clearly grasp from this
 intensification of the visual (however periodized and parsed) that
 capital targets not just territory but also consciousness, visual
 relations and the imagination itself in its struggle to organize
@@ -206,7 +204,7 @@ and increasing omnipresence of images. As argued in *The Cinematic Mode
 of Production*, the rise of late- 19th and 20th century humanistic
 disciplines can be characterized by innovations in their treatment of
 language and therefore can be used to index or periodize the
-quantitative intensification of visuality.[^02-Beller-WithintheImage_9] Each intensification of
+quantitative intensification of visuality.[^03_Beller_Johnatan_Within_the_Image_FINAL_9] Each intensification of
 the disruption of linguistic function by images along with the
 consequent denaturing of ‘natural’ language requires a new discipline
 capable of negotiating a receding Real; the sheer quantity of visual
@@ -246,11 +244,11 @@ Rather, one has to see the social role of the media platform as also
 constitutive of the platform. What photography ‘is’ has everything to do
 with its social functions, meaning that the objectification of women is
 part of what photography is, and the legacies of colonialism and slavery
-are embedded in its history and technical form.[^02-Beller-WithintheImage_10] Otherwise, one
+are embedded in its history and technical form.[^03_Beller_Johnatan_Within_the_Image_FINAL_10] Otherwise, one
 grasps a platform fetishistically, as a reification of social relations.
 IBM developed the punch card to cross-reference German populations for
 Nazis looking for Jews, gypsies and homosexuals during the Holocaust and
-this development was a precursor to modern computing.[^02-Beller-WithintheImage_11] The social
+this development was a precursor to modern computing.[^03_Beller_Johnatan_Within_the_Image_FINAL_11] The social
 function is embedded in the machine, just as the role of computation in
 financialization and in the organizing of labor practices in China is
 also part of the meaning of the computer. Race and gender are endemic to
@@ -295,7 +293,7 @@ that Regis Debray argues underpins ‘mediological’ transmissions (in his
 view incorrectly identified for the better part of a century as
 ‘communication’), of some other recent endeavors to treat the
 transformation of the value form and the transformed situation of
-labor.[^02-Beller-WithintheImage_12]
+labor.[^03_Beller_Johnatan_Within_the_Image_FINAL_12]
 
 In Empire, for example, Hardt and Negri return to Marx’s idea of social
 cooperation as endemic to production and argue for the real subsumption
@@ -358,7 +356,7 @@ that ‘the digital economy \[i\]s a specific mechanism of internal
 t\]he digital economy is an important area of experimentation with value
 and free cultural/affective labor,’ Terranova is clear that the exploit
 of digital capitalism draws upon practices and inequalities that were
-‘always and already capitalism’.[^02-Beller-WithintheImage_13] In other words, for her at least,
+‘always and already capitalism’.[^03_Beller_Johnatan_Within_the_Image_FINAL_13] In other words, for her at least,
 racism and sexism are embroiled in capitalism, and it would seem
 senseless to talk about (or critique) the latter in the absence of the
 former.
@@ -386,7 +384,7 @@ To give but one example here of how a critique cognisant of these
 relations might take form, Cindy Gao (2012) examines a series of videos
 by Asian-American YouTube celebrities, including vlogs of NigaHiga and
 KevJumba, and Wong Fu’s Yellow Fever, and characterizes their practice
-of performing race as ‘virtuosic virtuality’.[^02-Beller-WithintheImage_14] Without
+of performing race as ‘virtuosic virtuality’.[^03_Beller_Johnatan_Within_the_Image_FINAL_14] Without
 essentializing identity (Gao sees the term Asian American as itself a
 form of virtuality), the construct ‘virtuosic virtuality’ cranks up the
 stakes of the virtual and suggests that, here at least, these
@@ -429,7 +427,7 @@ obviously, the thoughts (and indeed the material connections to life)
 in, say, this essay, are to be anything more than a means by which you
 advance your career. And whilst non-proprietary file sharing, p2p,
 creative commons, copy-left, etc., are laudable endeavors, and
-‘gateways’[^02-Beller-WithintheImage_15] that may open to a post-capitalist society, it seems
+‘gateways’[^03_Beller_Johnatan_Within_the_Image_FINAL_15] that may open to a post-capitalist society, it seems
 premature to claim for any of these innovations that the medium is the
 message. For these practices at present do not contain within themselves
 a genuinely revolutionary critique or message (anti-racist,
@@ -472,7 +470,7 @@ population of Earth in 1929) are even now laboring to survive actually
 existing Armageddon. Given their intimate and indeed inescapable
 connection to the world media- system and the attention economy, the
 dispossessed have thus become the living substrate of contemporary
-systems of representation.[^02-Beller-WithintheImage_16] We write our revolutionary tracts on the
+systems of representation.[^03_Beller_Johnatan_Within_the_Image_FINAL_16] We write our revolutionary tracts on the
 backs of slaves. Radical dispossession as the other side of a
 world-media system is in the most literal sense the condition of
 possibility for our contemporary thought and writing. It bears asking,
@@ -535,7 +533,7 @@ of centuries of racialization and gendered violence but is today
 coming home to roost. As Césaire remarked, what was unforgiveable about
 the Holocaust, was not the brutality, torture and murder, what was
 unforgiveable was that the techniques of colonization were applied to
-white people.[^02-Beller-WithintheImage_17] Peoples of the Global South were the first ‘content
+white people.[^03_Beller_Johnatan_Within_the_Image_FINAL_17] Peoples of the Global South were the first ‘content
 providers.’ Now the situation is generalized.
 
 Understood in this way, it would appear that the result of not just
@@ -590,7 +588,7 @@ time.
 
 ## 
 
-**Reference List**
+### Reference List
 
 Althusser, L. ‘Ideology and Ideological State Apparatuses,*’ Lenin and
 Philosophy and Other Essays*, trans. B. Brewster, Monthly Review Press,
@@ -672,66 +670,65 @@ Virno, P. *A Grammar of the Multitude*, Cambridge: MIT Press, 2004.
 Zizek, S. ‘The Revolt of the Salaried Bourgeoisie’, *London Review of
 Books*, Vol. 34 No. 2, (26 January, 2012): 9-10.
 
-[^02-Beller-WithintheImage_1]: J. Beller, *The Cinematic Mode of Production: Attention Economy
+[^03_Beller_Johnatan_Within_the_Image_FINAL_1]: J. Beller, *The Cinematic Mode of Production: Attention Economy
     and the Society of the Spectacle*, Lebanon, NH: Dartmouth University
     Press, 2006.
 
-[^02-Beller-WithintheImage_2]: V. Flusser, *Towards a Philosophy of Photography*, trans. A.
+[^03_Beller_Johnatan_Within_the_Image_FINAL_2]: V. Flusser, *Towards a Philosophy of Photography*, trans. A.
     Matthews. London: Reaktion Books, 2000, p. 27.
 
-[^02-Beller-WithintheImage_3]: L. Althusser, ‘Ideology and Ideological State Apparatuses,*’ Lenin
+[^03_Beller_Johnatan_Within_the_Image_FINAL_3]: L. Althusser, ‘Ideology and Ideological State Apparatuses,*’ Lenin
     and Philosophy and Other Essays*, trans. B. Brewster, Monthly Review
     Press, 1971.
 
-[^02-Beller-WithintheImage_4]: P. Virno, *A Grammar of the Multitude*, Cambridge: MIT Press,
+[^03_Beller_Johnatan_Within_the_Image_FINAL_4]: P. Virno, *A Grammar of the Multitude*, Cambridge: MIT Press,
     2004.
 
-[^02-Beller-WithintheImage_5]: S. Zizek, ‘The Revolt of the Salaried Bourgeoisie’, *London Review
+[^03_Beller_Johnatan_Within_the_Image_FINAL_5]: S. Zizek, ‘The Revolt of the Salaried Bourgeoisie’, *London Review
     of Books*, Vol. 34 No. 2, (26 January, 2012): 9-10.
 
-[^02-Beller-WithintheImage_6]: D. Hoffman, ‘Violent Virtuosity: Visual Labor in West Africa’s
+[^03_Beller_Johnatan_Within_the_Image_FINAL_6]: D. Hoffman, ‘Violent Virtuosity: Visual Labor in West Africa’s
     Mano River War,’ *Anthropological Quarterly*, Vol. 84, no. 4 (Fall,
     2011): 949-976.
 
-[^02-Beller-WithintheImage_7]: D. Hoffman, ‘Violent Virtuosity: Visual Labor in West Africa’s
+[^03_Beller_Johnatan_Within_the_Image_FINAL_7]: D. Hoffman, ‘Violent Virtuosity: Visual Labor in West Africa’s
     Mano River War,’ *Anthropological Quarterly*, Vol. 84, no. 4 (Fall,
     2011), p. 952
 
-[^02-Beller-WithintheImage_8]: First source: M. Jay, ‘Scopic Regimes of Modernity,’ In *Vision
+[^03_Beller_Johnatan_Within_the_Image_FINAL_8]: First source: M. Jay, ‘Scopic Regimes of Modernity,’ In *Vision
     and Visuality*, New York: The New Press, 1988.
 
     Second source: Debray, R. *Media Manifestos*. London: Verso, 1996.
 
-[^02-Beller-WithintheImage_9]: J. Beller, *The Cinematic Mode of Production: Attention Economy
+[^03_Beller_Johnatan_Within_the_Image_FINAL_9]: J. Beller, *The Cinematic Mode of Production: Attention Economy
     and the Society of the Spectacle*, Lebanon, NH: Dartmouth University
     Press, 2006.
 
-[^02-Beller-WithintheImage_10]: J. Beller, ‘Camera Obscura After All: The Racist Writing With
+[^03_Beller_Johnatan_Within_the_Image_FINAL_10]: J. Beller, ‘Camera Obscura After All: The Racist Writing With
     Light,’ In Jonathan Beller (ed.) *The Scholar and Feminist Online,
     Special Issue: Feminist Media Theory, Iterations of Social
     Difference*, 2012.
 
-[^02-Beller-WithintheImage_11]: E. Black, *IBM and the Holocaust: The Strategic Alliance Between
+[^03_Beller_Johnatan_Within_the_Image_FINAL_11]: E. Black, *IBM and the Holocaust: The Strategic Alliance Between
     Nazi Germany and America’s Most Powerful Corporation*, Washington,
     D.C.: Dialog Press, 2012.
 
-[^02-Beller-WithintheImage_12]: R. Debray, 2006.
+[^03_Beller_Johnatan_Within_the_Image_FINAL_12]: R. Debray, 2006.
 
-[^02-Beller-WithintheImage_13]: T. Terranova, ‘Free Labor: Producing Culture for the Digital
+[^03_Beller_Johnatan_Within_the_Image_FINAL_13]: T. Terranova, ‘Free Labor: Producing Culture for the Digital
     Economy’, 2003,
     http://www.electronicbookreview.com/thread/technocapitalism/voluntary.
 
-[^02-Beller-WithintheImage_14]: C. Gao, ‘Virtuosic Virtuality of Asian American Youtube Stars,’
+[^03_Beller_Johnatan_Within_the_Image_FINAL_14]: C. Gao, ‘Virtuosic Virtuality of Asian American Youtube Stars,’
     In Jonathan Beller (ed.) *The Scholar and Feminist Online, Special
     Issue: Feminist Media Theory, Iterations of Social Difference*,
     2012.
 
-[^02-Beller-WithintheImage_15]: S. Cubitt, ‘The Political Economy of Cosmopolis’ in T. Scholz.
+[^03_Beller_Johnatan_Within_the_Image_FINAL_15]: S. Cubitt, ‘The Political Economy of Cosmopolis’ in T. Scholz.
     (ed.) *Digital Labor*, New York and London: Routledge, 2012.
 
-[^02-Beller-WithintheImage_16]: J. Beller, ‘Paying Attention’, *Cabinet 24* (2008),
-
+[^03_Beller_Johnatan_Within_the_Image_FINAL_16]: J. Beller, ‘Paying Attention’, *Cabinet 24* (2008),
     http://www.cabinetmagazine.org/issues/24/beller.php
 
-[^02-Beller-WithintheImage_17]: A. Césaire, *Discourse on Colonialism*, trans. J. Pinkham, New
+[^03_Beller_Johnatan_Within_the_Image_FINAL_17]: A. Césaire, *Discourse on Colonialism*, trans. J. Pinkham, New
     York and London: Monthly Review Press, 1972.

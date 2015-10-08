@@ -17,11 +17,13 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Sandi Abram
+Sandi Abram
 
-# The Creative Factory: Collective Creativity and Autonomy in the Neoliberal Machine of Creative Industries
+## THE CREATIVE FACTORY: COLLECTIVE CREATIVITY AND AUTONOMY IN THE NEOLIBERAL MACHINE OF CREATIVE INDUSTRIES
 
-## Introduction: Genteel Capital Courtship 
+### 
+
+### Introduction: Genteel Capital Courtship 
 
 A maxim constantly repeated by the Ljubljana Mayor in the last few years
 has been “Ljubljana – the most beautiful city in the world”. The
@@ -35,7 +37,7 @@ straightjacketing of the public space into lucrative, sterile, and
 disciplinary logic is not anything new. Yet some strategies of the
 neoliberal urbanism in city espoused with the reproduction of capital
 seem to be the new ones. Whereas the cultural consumption was fuelling
-the city’s symbolic economy[^06_1] for quite a while, the cities in the
+the city’s symbolic economy[^07_Abram_S_The_Creative_Factory_FINAL_1] for quite a while, the cities in the
 21st century strain themselves to become areas of peculiar multifaceted
 production closely intertwined with consumption once again .This time
 they are shaping a pervasive marketing coalition between the cultural
@@ -46,26 +48,26 @@ The contemporary urban tourism industry ceases to have the privileged
 sole position of the producer of surplus value in the metropolis.
 Instead, the neoliberal capital colonization is invading new spheres and
 ways of surplus extraction, while mimicking the ideological processes of
-gentrification under “new planetary vulgates”[^06_2], such as the
-territorial “creative milieu”[^06_3]or the metropolitan “creative
-city”.[^06_4] The proponents of such “new urban economy”[^06_5]tend to blindly
+gentrification under “new planetary vulgates”[^07_Abram_S_The_Creative_Factory_FINAL_2], such as the
+territorial “creative milieu”[^07_Abram_S_The_Creative_Factory_FINAL_3]or the metropolitan “creative
+city”.[^07_Abram_S_The_Creative_Factory_FINAL_4] The proponents of such “new urban economy”[^07_Abram_S_The_Creative_Factory_FINAL_5]tend to blindly
 follow Florida’s nostrum of the new paradigm for urban planning that can
 be found his all-encompassing predicament: “Human creativity is the
-ultimate source of economic growth”.[^06_6] The territorial intertwines
+ultimate source of economic growth”.[^07_Abram_S_The_Creative_Factory_FINAL_6] The territorial intertwines
 with the cognitive colonization only to become a situated “creative
 economy” in the era of cognitive capitalism.
 
 We can witness the entire trajectory of these processes through the case
 of a former bicycle factory in Ljubljana. Located in immediate vicinity
 of the city centre, the Rog factory operated until 1991, then remained
-closed and abandoned until 2006,[^06_7] when, after 15 long years of
+closed and abandoned until 2006,[^07_Abram_S_The_Creative_Factory_FINAL_7] when, after 15 long years of
 stagnation, the group TEMP, along with a conglomerate of other praxes
-and realities,[^06_8] reclaimed the factory for temporary use and brought
+and realities,[^07_Abram_S_The_Creative_Factory_FINAL_8] reclaimed the factory for temporary use and brought
 the Fordist Frankenstein back to life. From 2010 onwards, the
 reappropriation of the commons was claimed. Ever since their liberation
 and reanimation, the spaces in Rog² present an open cultural, social,
 and political hub giving shelter to a multitude of autonomous collective
-political subjects[^06_9] as well as to a broad range of artists and sports
+political subjects[^07_Abram_S_The_Creative_Factory_FINAL_9] as well as to a broad range of artists and sports
 enthusiasts practicing horizontal organization and communication on a
 daily basis.
 
@@ -86,9 +88,7 @@ gradual construction, or rather demolition, of the liberated Rog factory
 which has, in fact, the purpose of neutralization and eradication of the
 autonomous collective creativity in Rog, giving space to gentrification.
 
-## 
-
-## The Public-Private Partnership Model as a Pan-European Paradigm of Gentrification: Second Chance
+### The Public-Private Partnership Model as a Pan-European Paradigm of Gentrification: Second Chance
 
 Starting with the year 2010, MOL’s endeavour to castrate Rog was wrapped
 inside a benevolent cellophane, launched under the name the Second
@@ -99,16 +99,16 @@ Cotton Spinning Mill (Leipzig), the tram depot (Krakow) and the Arsenale
 “from industrial use to creative impulse” we shall dwell directly on the
 project’s description:
 
-> \[The slogan\] \[i\]t is a vision of five European cities to transform
-> a disused industrial site into a cultural and creative work and living
-> space and continuing their revitalisation with sustainable concepts.
-> \[…\] Nuremberg, Leipzig, Venice, Krakow and Ljubljana work
-> together[^06_10] to develop innovative strategies and concepts to upgrade
-> their former industrial site to a key cultural linchpin of the city’s
-> district. The cities face the same challenges of developing a heritage
-> and former industrial sites. Even though the revitalisation process is
-> at different stages in the five cities, the partners share the same
-> questions, challenges, opportunities and goals. \[…\][^06_11]
+\[The slogan\] \[i\]t is a vision of five European cities to transform a
+disused industrial site into a cultural and creative work and living
+space and continuing their revitalisation with sustainable concepts.
+\[…\] Nuremberg, Leipzig, Venice, Krakow and Ljubljana work
+together[^07_Abram_S_The_Creative_Factory_FINAL_10] to develop innovative strategies and concepts to upgrade
+their former industrial site to a key cultural linchpin of the city’s
+district. The cities face the same challenges of developing a heritage
+and former industrial sites. Even though the revitalisation process is
+at different stages in the five cities, the partners share the same
+questions, challenges, opportunities and goals. \[…\][^07_Abram_S_The_Creative_Factory_FINAL_11]
 
 According to the initial plan, and through the private-public
 partnership model, the buildings would be levelled first to the ground,
@@ -119,7 +119,7 @@ private (80.69%) and public (19.31%) ownership, whereby the private
 “content” would comprise a residential (apartments, underground
 garages), hotel and business section, while the public part were to be
 exclusively reserved for *creative industries* (multi-purpose halls,
-exhibition surfaces, studios etc.).[^06_12] The logic behind the two
+exhibition surfaces, studios etc.).[^07_Abram_S_The_Creative_Factory_FINAL_12] The logic behind the two
 bedfellows under neoliberalism is that the public would finance the
 private and the private would parasite on public benefits. The
 ideological premises nesting in the plan were in the apparent
@@ -138,48 +138,48 @@ is intimately connected to the privatization of the political. And to
 put it differently, gentrification through art was complemented with the
 gentrification through “creativity”. The culturalization of capital
 under a new panacea for post-industrial sites means: creative
-“revitalisation through arts and culture”.[^06_13]
+“revitalisation through arts and culture”.[^07_Abram_S_The_Creative_Factory_FINAL_13]
 
 Generally speaking, gentrification can manifest in three forms:
-traditional, modern, and artificial.[^06_14] The traditional one is
+traditional, modern, and artificial.[^07_Abram_S_The_Creative_Factory_FINAL_14] The traditional one is
 produced by exploiting historical and social “guardians of collective
 symbolic and cultural capital (the museums, the universities, the class
-of benefactors, and the state apparatus)”.[^06_15] The modern one is
+of benefactors, and the state apparatus)”.[^07_Abram_S_The_Creative_Factory_FINAL_15] The modern one is
 produced by exploiting the art world and urban subcultures as the
 artificial gentrification is a strategy generated by city councils
 through public campaigns which promote the creative city in order to
-attract investments and highly skilled workers. [^06_16] Concomitantly, the
+attract investments and highly skilled workers. [^07_Abram_S_The_Creative_Factory_FINAL_16] Concomitantly, the
 “\[q\]uality of urban life has become a commodity, as has the city
 itself, in a world where consumerism, tourism, cultural and
 knowledge-based industries have become major aspects of the urban
-political economy”.[^06_17]
+political economy”.[^07_Abram_S_The_Creative_Factory_FINAL_17]
 
 What remains overshadowed is the mode of accumulation of the *collective
 symbolic capital*. This capital, after Slovenia’s transition to
 neoliberalism, was not exploited due to MOL’s active negation of the
 autonomous cultural production in Rog today. In this sense, neither
 squatters nor artists or other users of the postindustrial Rog had the
-role of “bridge gentrifiers”[^06_18], i.e. transitional tenants, who would
+role of “bridge gentrifiers”[^07_Abram_S_The_Creative_Factory_FINAL_18], i.e. transitional tenants, who would
 be tolerated only until they raised property value. For example, in
 Lower East Side (New York City) “\[t\]he artists were pioneers of
 gentrification in this new frontier for the middle class, by creating an
 art scene and community, combining the use of their space for living,
-producing, performing and exhibiting.”[^06_19]
+producing, performing and exhibiting.”[^07_Abram_S_The_Creative_Factory_FINAL_19]
 
-Instead of what Zukin[^06_20] termed “artistic mode of production”, the
+Instead of what Zukin[^07_Abram_S_The_Creative_Factory_FINAL_20] termed “artistic mode of production”, the
 parasitism through which the Second Chance has been building upon its
 campaign, is availing to the emplaced and sediment collective symbolic
 capital. It also accumulated during the socialistic industrial era and
 strongly underlined the embedded collective memory. The “unique cultural
-assets”[^06_21] of the former Rog industrial complex are in fact just
+assets”[^07_Abram_S_The_Creative_Factory_FINAL_21] of the former Rog industrial complex are in fact just
 “\[...\] special marks of distinction that attach to some place, as they
 have a significant drawing power upon the flows of capital more
-generally.”[^06_22] Concisely, claims to the uniqueness yield monopoly
-rent.[^06_23]
+generally.”[^07_Abram_S_The_Creative_Factory_FINAL_22] Concisely, claims to the uniqueness yield monopoly
+rent.[^07_Abram_S_The_Creative_Factory_FINAL_23]
 
 I shall underline here another passage from the project’s description:
 “The cities face the same challenges of *developing a heritage and
-landmarked former industrial sites*”.[^06_24] The claim indicates that the
+landmarked former industrial sites*”.[^07_Abram_S_The_Creative_Factory_FINAL_24] The claim indicates that the
 accumulation of the *collective symbolic capital* would combine a
 symbolic musealisation of the localized “unique” socialist remains
 *with* the outlined cultural capital (the projected art spaces and
@@ -198,7 +198,7 @@ MOL’s Head of Department for Culture expressed at the unveiling of the
 new plans (which will be discussed in more detail later). According to
 her, Rog will become a point of interest for the new generation of young
 architects and designers, which will “get in the city centre a space and
-tools for entering the labour market”.[^06_25]
+tools for entering the labour market”.[^07_Abram_S_The_Creative_Factory_FINAL_25]
 
 Moreover, by perpetually referring to the *disused* and *(former) Rog
 factory* the Second Chance is not only imaginarily discarding the
@@ -213,13 +213,13 @@ of subjectivities present within Rog would be acknowledged.
 
 In this view, an left-out part of the Second Chance description is to be
 understood: “\[These postindustrial sites are\] the industrial estates
-who deserve this 2nd chance”.[^06_26] The positioning of the Second Chance
+who deserve this 2nd chance”.[^07_Abram_S_The_Creative_Factory_FINAL_26] The positioning of the Second Chance
 in the linear continuation of the paternalistic logic of urbanism (the
-anthropomorphized discourse of giving estates a second opportunity)[^06_27]
+anthropomorphized discourse of giving estates a second opportunity)[^07_Abram_S_The_Creative_Factory_FINAL_27]
 is actively denying the collective reappropiation of the space in 2006
 as well as it is denying the ongoing manifold autonomous cultural,
-social, and political production being housed in the buildings.[^06_28]
-This attempt to revive a space already revived[^06_29]can signal only one
+social, and political production being housed in the buildings.[^07_Abram_S_The_Creative_Factory_FINAL_28]
+This attempt to revive a space already revived[^07_Abram_S_The_Creative_Factory_FINAL_29]can signal only one
 thing: creative industries will lie on the ashes of autonomous
 collective creativity. One could go that far to delineate the latter as
 a fetishist urban necrophilia: the compulsive reuse of the moribund
@@ -235,11 +235,11 @@ to cling to the cadaveric proletarian collective “body”.
 Pointed out by Pasquinelli, Harvey’s *collective symbolic capital* can
 be conceived as another name for the “*capitalist exploitation of the
 commons* – a form of exploitation that does not need violent
-enclosures”.[^06_30] Here the notion of violence deserves further
+enclosures”.[^07_Abram_S_The_Creative_Factory_FINAL_30] Here the notion of violence deserves further
 attention. Ever since Rog’s reappropriation, MOL is intentionally
 leaving Rog in deficient circumstances, without the minimal material
 conditions; ever since the reappropriation the whole complex is
-functioning in abstraction of electricity.[^06_31] Rog’s users are
+functioning in abstraction of electricity.[^07_Abram_S_The_Creative_Factory_FINAL_31] Rog’s users are
 quotidianly experiencing systematic exhaustion, longitudinal vegetation
 on their bodies, and, generally, the menace of eviction – all instances
 of subtle structural violence strongly calling into question the
@@ -253,15 +253,15 @@ be the position after the implementation of Second Chance, turning Rog
 from a closedown factory into an immaterial social factory. Again,
 according to the description the project’s intention is: “\[...\] to
 transform a disused industrial site in a *cultural and creative* *work
-and living space* \[...\]”.[^06_32] The phrase quintessentially comprises
+and living space* \[...\]”.[^07_Abram_S_The_Creative_Factory_FINAL_32] The phrase quintessentially comprises
 the concept of bio-political production, in which all spheres of social
 life are produced: “\[...\] post-Fordism and the immaterial paradigm of
 production adopt performativity, communication, and collaboration as
-central characteristics”.[^06_33] Perhaps this is an opportune time to
+central characteristics”.[^07_Abram_S_The_Creative_Factory_FINAL_33] Perhaps this is an opportune time to
 fasten more particularly the pervasive creation of the creative
 industries.
 
-## In the White Cube, a Simulacrum of the Creative Industries: RogLab Centre Pilot Project
+### In the White Cube, a Simulacrum of the Creative Industries: RogLab Centre Pilot Project
 
 The capital’s colonization of the public spaces and the commons once was
 exemplified in 2012 with the so called RogLab Centre Pilot Project.
@@ -279,30 +279,29 @@ as a territorial (bordered) power-container, RogLab strains in
 presenting itself as an unconfined “creative” power container and a
 dynamo for the creative economy:
 
-> RogLab is conceived as a production, educational and presentation
-> space in a 30 m²‑container object. It is dedicated to activities in
-> the fields of architecture, design and contemporary art, their mutual
-> connecting and cross-sector collaboration (economy, education,
-> science, environment, space…) as well as international
-> networking.[^06_34]
+RogLab is conceived as a production, educational and presentation space
+in a 30 m²‑container object. It is dedicated to activities in the fields
+of architecture, design and contemporary art, their mutual connecting
+and cross-sector collaboration (economy, education, science,
+environment, space…) as well as international networking.[^07_Abram_S_The_Creative_Factory_FINAL_34]
 
 RogLab’s spatial separation from the Rog building by being *outside* yet
 *in face of* it, does not mean its contents are hermetically
 encapsulated or, at first glance, antithetic to those nourished in
-Rog.[^06_35] Quite to the contrary: this act of colonization of the public
+Rog.[^07_Abram_S_The_Creative_Factory_FINAL_35] Quite to the contrary: this act of colonization of the public
 space means as well the colonization of creativity by being the
 epistemological and material forerunner of the creative industries in
 the area. For example, RogLab is openly acknowledging the devastation of
 Rog; it promotes to be “an attractive mobile architecture \[...\]
 marking the beginning of the renovation of the former Rog factory. The
 pilot project will function as a small scale model of the future Rog
-Centre”.[^06_36]
+Centre”.[^07_Abram_S_The_Creative_Factory_FINAL_36]
 
 Further, on the external surface of RogLab an imprinted characterization
 reads: “In the 3D workshop for fast prototyping, we help you *develop
-ideas into tangible products*”[^06_37] Thus, the neoliberal capitalist
+ideas into tangible products*”[^07_Abram_S_The_Creative_Factory_FINAL_37] Thus, the neoliberal capitalist
 paradigm of productive knowledge is canalized into an applicable and
-vendible market form. “Neoliberalism,” asserts Harvey[^06_38] “\[…\]
+vendible market form. “Neoliberalism,” asserts Harvey[^07_Abram_S_The_Creative_Factory_FINAL_38] “\[…\]
 proposes that human well-being can best be advanced by liberating
 individual entrepreneurial freedoms and skills within an institutional
 framework characterized by strong private property rights, free markets,
@@ -311,24 +310,24 @@ institutional framework appropriate to such practices.”
 
 Taken together, Rog*Lab* can indeed be viewed as *labor-*atorial, a
 laboratorial materialization reflecting the intertwined processes of the
-capitalist rent parasiting on the productive commons,[^06_39] incorporation
+capitalist rent parasiting on the productive commons,[^07_Abram_S_The_Creative_Factory_FINAL_39] incorporation
 of existent subversion, commodification of autonomous collective
 creativity, and the (forerunner and justifier of) spatial
-usurpation.[^06_40] The paradigmatic workshop/art project “Socialdress”
+usurpation.[^07_Abram_S_The_Creative_Factory_FINAL_40] The paradigmatic workshop/art project “Socialdress”
 carried out in RogLab might be the utmost illustration of these
 processes *in vitro*. Championing the creative industries, the workshop
 sucked out the labour of unemployed women who were voluntarily
 embroidering clothes for several days:
 
-> This art project \[…\] takes place in the form of a clothes and
-> household fabrics fashion collection. The collection incorporates
-> slogans from the recent Slovenian protests[^06_41] – the expression of
-> the general public’s rebellion and dissatisfaction with the existing
-> system. Modern embroidery machines will be used to embroider the
-> selected slogans onto fabrics and clothes, thus empowering them.
-> Traditional craft skills, modern technology, fashion, social
-> engagement, activism and social entrepreneurship all join forces in
-> this new interdisciplinary art project \[...\].[^06_42]
+This art project \[…\] takes place in the form of a clothes and
+household fabrics fashion collection. The collection incorporates
+slogans from the recent Slovenian protests[^07_Abram_S_The_Creative_Factory_FINAL_41] – the expression of the
+general public’s rebellion and dissatisfaction with the existing system.
+Modern embroidery machines will be used to embroider the selected
+slogans onto fabrics and clothes, thus empowering them. Traditional
+craft skills, modern technology, fashion, social engagement, activism
+and social entrepreneurship all join forces in this new
+interdisciplinary art project \[...\].[^07_Abram_S_The_Creative_Factory_FINAL_42]
 
 The machine of commodification, which mimics under the coat of
 benevolence and social responsibility, attempted to decontextualize and
@@ -336,7 +335,7 @@ castrate the collective subversive potentiality of the uprisings by
 aestheticisation and banalization, vampirizing the free labour: “The
 \[Socialdress\] project promotes and supports sewing e.g. dress
 home-making. It transforms the sewing into an entertaining and useful
-social activity”.[^06_43] Here, the unpaid social cooperation, the mutual
+social activity”.[^07_Abram_S_The_Creative_Factory_FINAL_43] Here, the unpaid social cooperation, the mutual
 production, and interdisciplinary collaboration all go a step further
 from the individualism inherent to the anatomized precariat. The
 neoliberal machine does not base its agenda anymore on explicit
@@ -351,7 +350,7 @@ discourse. Throughout the practice of the Second Chance, the
 colonization of the commons goes hand in hand with the adoption of the
 formalized “inclusive bottom-up participatory” smokescreen.
 
-## Gentrification Goes Public
+### Gentrification Goes Public
 
 What was to be witnessed in 2013 was another twist in the neoliberal
 municipal urban policies. In the explication of the changed spatial plan
@@ -374,14 +373,14 @@ in several stages. More accurately, a seven-phased (re)construction is
 now being designed. In the first stage of the construction, the
 blueprint includes two crucial interventions: the “outside arrangement”
 around the central building *and* an underground garage overlapping with
-the position of almost all buildings on the territory of Rog.[^06_44] In
+the position of almost all buildings on the territory of Rog.[^07_Abram_S_The_Creative_Factory_FINAL_44] In
 all likelihood, the planned besiegement of the central building and the
 “outside arrangement” will manifest itself directly in the form of an
 internal reconstruction of the main factory outbuilding, leaving behind
-another “late capitalist hollow space”[^06_45]
+another “late capitalist hollow space”[^07_Abram_S_The_Creative_Factory_FINAL_45]
 
 As for the surrounding buildings without the historical
-preservation,[^06_46] which itself allows façadism— and the demolishment of
+preservation,[^07_Abram_S_The_Creative_Factory_FINAL_46] which itself allows façadism— and the demolishment of
 the building’s interior yet leaving its exterior intact— these will be
 levelled to the ground, causing another symptomatic fenced urban void,
 filled at the best with gravelled parking spaces, as this profitable
@@ -398,14 +397,14 @@ at best, become the situated gravitational field for gentrification, as
 the process of gentrification will inevitably include the entire
 surrounding neighbourhood. (PHOTO)
 
-## "Gentrification is class war"
+### "Gentrification is class war"
 
 The fundamental reason behind the repeatedly converted plans of
-demolishment of the liberated Rog factory area seems simple;[^06_47]
+demolishment of the liberated Rog factory area seems simple;[^07_Abram_S_The_Creative_Factory_FINAL_47]
 communities “that swarm in Rog, are not dangerous for MOL because of the
 revitalization of \[...\] abandoned spaces, but because of the swarming
 of new and different forms of social activities, connections and
-collaboration”.[^06_48] The eradication and neutralization, discursive or
+collaboration”.[^07_Abram_S_The_Creative_Factory_FINAL_48] The eradication and neutralization, discursive or
 violently material, of autonomous collective creativity, troubling the
 flows of capital, are inevitably inherent to wider processes of capital
 accumulation. For once, in the current condition, the extraction of
@@ -425,7 +424,7 @@ Foucauldian insurrectional subjugated knowledge. The remaining question
 is whether one will hop on the moving train rushing through the
 urbanscape moved by these machines.
 
-**Reference List**
+### Reference List
 
 Anonymous. 1989. *The Occupation of art and gentrification*. Internet
 source:
@@ -551,33 +550,33 @@ Berkeley: University of California Press, 1991.
 
 Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
 
-[^06_1]: Sharon Zukin, *Landscapes of Power: From Detroit to Disney World*.
+[^07_Abram_S_The_Creative_Factory_FINAL_1]: Sharon Zukin, *Landscapes of Power: From Detroit to Disney World*.
     Berkeley: University of California Press, 1991. Sharon Zukin, *The
     Cultures of Cities*, Cambridge: Blackwell, 1995.
 
-[^06_2]: Pierre Bourdieu and Loïc Wacquant, ‘NewLiberalSpeak. Notes on the
+[^07_Abram_S_The_Creative_Factory_FINAL_2]: Pierre Bourdieu and Loïc Wacquant, ‘NewLiberalSpeak. Notes on the
     new planetary vulgate’, *Radical Philosophy* 105 (2001): 1-5.
 
-[^06_3]: Charles Landry, *The Creative City: A Toolkit for Urban
+[^07_Abram_S_The_Creative_Factory_FINAL_3]: Charles Landry, *The Creative City: A Toolkit for Urban
     Innovators*, London: Earthscan, 2000.
 
-[^06_4]: Richard Florida, *Cities and the Creative Class*, London, New
+[^07_Abram_S_The_Creative_Factory_FINAL_4]: Richard Florida, *Cities and the Creative Class*, London, New
     York: Routledge, 2005.
 
-[^06_5]: Saskia Sassen, ‘Locating cities on global circuits,’ *Environment
+[^07_Abram_S_The_Creative_Factory_FINAL_5]: Saskia Sassen, ‘Locating cities on global circuits,’ *Environment
     & Urbanization* 14 (2002): 22.
     http://www.rrojasdatabank.info/urban/euv14n1p13.pdf
 
-[^06_6]: Richard Florida, *Cities and the Creative Class*, London, New
+[^07_Abram_S_The_Creative_Factory_FINAL_6]: Richard Florida, *Cities and the Creative Class*, London, New
     York: Routledge, 2005, p. 22.
 
-[^06_7]: For a more detailed history of Rog from the second part of the
+[^07_Abram_S_The_Creative_Factory_FINAL_7]: For a more detailed history of Rog from the second part of the
     19th century onwards see Mihelič et al. (1995) or the historical
     digest available on Tovarna Rog website
     (http://tovarna.org/node/131); for a sociopolitical analysis see
     Kurnik and Beznec (2009); Kurnik (2013).
 
-[^06_8]: Cf. TEMP. ‘TEMP about TEMP, or a quick and unsystematic
+[^07_Abram_S_The_Creative_Factory_FINAL_8]: Cf. TEMP. ‘TEMP about TEMP, or a quick and unsystematic
     retrospective of the workings of one temporary and informal
     multidisciplinary group.’ In: Radical Education Collective (eds.):
     *New public spaces: dissensual political and artistic practices in
@@ -585,84 +584,84 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
     (2009): 144-158. Internet source:
     http://radical.temp.si/reader/TEMP.pdf
 
-[^06_9]: To name some*: Invisible Workers of the World, World for Everyone,
+[^07_Abram_S_The_Creative_Factory_FINAL_9]: To name some*: Invisible Workers of the World, World for Everyone,
     Civil Initiative of the Erased Activists, Front of the Precarious,
     Iz-hod* (Walk-out) movement for the deinstitutionalization from
     total institutions, Occupy Movement \#15o, Anti-Capitalist Block
     etc.
 
-[^06_10]: Together work, of course, the city managers and the appurtenant
+[^07_Abram_S_The_Creative_Factory_FINAL_10]: Together work, of course, the city managers and the appurtenant
     administration.
 
-[^06_11]: Second Chance, *Project Description* (2013), pp. 4,
+[^07_Abram_S_The_Creative_Factory_FINAL_11]: Second Chance, *Project Description* (2013), pp. 4,
     http://www.secondchanceproject.eu/wp/?page\_id=26
 
-[^06_12]: Institute for Civilisation and Culture. *SWOT Analysis for the
+[^07_Abram_S_The_Creative_Factory_FINAL_12]: Institute for Civilisation and Culture. *SWOT Analysis for the
     Purposes of the Revitalisation of the Former Rog Factory with the
     Establishment of the Rog – Centre of Contemporary Arts* (2011).
     Internet source:
     http://www.secondchanceproject.eu/wp/wp-content/uploads/2011/07/SWOT\_Analysis\_Ljubljana.pdf
 
-[^06_13]: See the homonymous brochure, Katrin Fischer et al.
+[^07_Abram_S_The_Creative_Factory_FINAL_13]: See the homonymous brochure, Katrin Fischer et al.
     *Revitalisation through arts and culture: new developments for 5
     European industrial complexes.* Nürnberg: Second Chance (2012)
     http://www.secondchanceproject.eu/wp/wp-content/uploads/2012/11/SECOND-CHANCE\_Mid-Project-Brochure\_online\_final.pdf&gt;,
     reviewed 1 October, 2013.
 
-[^06_14]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
+[^07_Abram_S_The_Creative_Factory_FINAL_14]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
     Berlin’s Factory of Culture and the Sabotage of Rent,’ KUNSTrePUBLIK
     (eds), *Skulpturenpark Berlin\_Zentrum*. Berlin: Verlag der
     Buchhandlung Walther König (2010)
 
-[^06_15]: David Harvey, 'The Art of Rent: Globalisation, Monopoly and the
+[^07_Abram_S_The_Creative_Factory_FINAL_15]: David Harvey, 'The Art of Rent: Globalisation, Monopoly and the
     Commodification of Culture' (2001).
     http://www.generation-online.org/c/fc\_rent1.htm
 
-[^06_16]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
+[^07_Abram_S_The_Creative_Factory_FINAL_16]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
     Berlin’s Factory of Culture and the Sabotage of Rent,’ KUNSTrePUBLIK
     (eds.): *Skulpturenpark Berlin\_Zentrum*. Berlin: Verlag der
     Buchhandlung Walther König (2010).
 
-[^06_17]: David Harvey, ‘The Right to the City.’ *New Left Review* 53
+[^07_Abram_S_The_Creative_Factory_FINAL_17]: David Harvey, ‘The Right to the City.’ *New Left Review* 53
     (September-October 2008): 31.
 
-[^06_18]: Sharon Zukin, *The Cultures of Cities*, Cambridge: Blackwell,
+[^07_Abram_S_The_Creative_Factory_FINAL_18]: Sharon Zukin, *The Cultures of Cities*, Cambridge: Blackwell,
     1995, p. 111.
 
-[^06_19]: Anonymous. *The Occupation of art and gentrification* (1989)
+[^07_Abram_S_The_Creative_Factory_FINAL_19]: Anonymous. *The Occupation of art and gentrification* (1989)
     pp.7.
     http://theanarchistlibrary.org/library/anonymous-the-occupation-of-art-and-gentrification\#fn\_back7
 
-[^06_20]: Sharon Zukin, *Loft Living: Culture and Capital in Urban Change*,
+[^07_Abram_S_The_Creative_Factory_FINAL_20]: Sharon Zukin, *Loft Living: Culture and Capital in Urban Change*,
     Baltimore and London: The Johns Hopkins University Press, 1982.
 
-[^06_21]: The phrase is taken from the announcement of the public
+[^07_Abram_S_The_Creative_Factory_FINAL_21]: The phrase is taken from the announcement of the public
     presentation carried out by Lia Ghilardi in the City Museum at MOL's
     invitation (see Second Chance 2012).
 
-[^06_22]: David Harvey, 'The Art of Rent: Globalisation, Monopoly and the
+[^07_Abram_S_The_Creative_Factory_FINAL_22]: David Harvey, 'The Art of Rent: Globalisation, Monopoly and the
     Commodification of Culture' (2001).
     http://www.generation-online.org/c/fc\_rent1.htm
 
-[^06_23]: Ibid.
+[^07_Abram_S_The_Creative_Factory_FINAL_23]: Ibid.
 
-[^06_24]: Second Chance, *Project Description* (2013) Emphasis mine.
+[^07_Abram_S_The_Creative_Factory_FINAL_24]: Second Chance, *Project Description* (2013) Emphasis mine.
     http://www.secondchanceproject.eu/wp/?page\_id=26.
 
-[^06_25]: Demšič in Krajčinović. Nina Krajčinović, 'Rog kot politični
+[^07_Abram_S_The_Creative_Factory_FINAL_25]: Demšič in Krajčinović. Nina Krajčinović, 'Rog kot politični
     projekt brez zagotovljenih sredstev', *Delo* 5^th^ September 2013,
     http://www.delo.si/novice/ljubljana/rog-kot-politicni-projekt-brez-zagotovljenih-sredstev.html
 
-[^06_26]: Second Chance, *Project Description* (2013).
+[^07_Abram_S_The_Creative_Factory_FINAL_26]: Second Chance, *Project Description* (2013).
     http://www.secondchanceproject.eu/wp/?page\_id=26.
 
-[^06_27]: A topic deserving its own Foucauldian analysis is not just the
+[^07_Abram_S_The_Creative_Factory_FINAL_27]: A topic deserving its own Foucauldian analysis is not just the
     inflation of euphemisms for gentrification but also the medical,
     anthropomorphized, and biopolitical urbanistic discourses (e.g.
     revitalisation, regeneration, reanimation, rehabilitation,
     sustainable, degraded, sanitation).
 
-[^06_28]: Initially the entire multitude in Rog was nonchalantly ignored
+[^07_Abram_S_The_Creative_Factory_FINAL_28]: Initially the entire multitude in Rog was nonchalantly ignored
     from any description whatsoever. However, the current and updated
     version of the project’s website is recognizing the contemporary
     murmurings in the Rog’s building – altogether in one sentence:
@@ -670,77 +669,77 @@ Zukin, Sharon. *The Cultures of Cities*, Cambridge: Blackwell, 1995.
     users who developed cultural, artistic, sport and social activities
     on site” (Second Chance 2013).
 
-[^06_29]: Nenad Jelesijević, Rog med razlastitvijo in prilastitvijo
+[^07_Abram_S_The_Creative_Factory_FINAL_29]: Nenad Jelesijević, Rog med razlastitvijo in prilastitvijo
     skupnega. Radio Študent (5 April 2012).
     http://radiostudent.si/kultura/dlako-z-jezika/rog-med-razlastitvijo-in-prilastitvijo-skupnega
 
-[^06_30]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
+[^07_Abram_S_The_Creative_Factory_FINAL_30]: Matteo Pasquinelli, ‘Beyond the Ruins of the Creative City:
     Berlin’s Factory of Culture and the Sabotage of Rent,’ KUNSTrePUBLIK
     (eds): *Skulpturenpark Berlin\_Zentrum*. Berlin: Verlag der
     Buchhandlung Walther König (2010)
 
-[^06_31]: This situation is somewhat being compensated by relying on the
+[^07_Abram_S_The_Creative_Factory_FINAL_31]: This situation is somewhat being compensated by relying on the
     usage of electricity generators that require an increasingly larger
     amount of money for each organized event.
 
-[^06_32]: Second Chance, *Project Description* (2013). Emphasis mine.
+[^07_Abram_S_The_Creative_Factory_FINAL_32]: Second Chance, *Project Description* (2013). Emphasis mine.
     http://www.secondchanceproject.eu/wp/?page\_id=26
 
-[^06_33]: Michael Hardt and Antonio Negri, *Multitude: War and Democracy in
+[^07_Abram_S_The_Creative_Factory_FINAL_33]: Michael Hardt and Antonio Negri, *Multitude: War and Democracy in
     the Age of Empire*, New York: Penguin Press, 2004, p. 200.
 
-[^06_34]: Rog Centre Pilot Project, *About* (2013)
+[^07_Abram_S_The_Creative_Factory_FINAL_34]: Rog Centre Pilot Project, *About* (2013)
     http://www.roglab.si/en/about
 
-[^06_35]: This separation is also an uncanny physical evidence of not
+[^07_Abram_S_The_Creative_Factory_FINAL_35]: This separation is also an uncanny physical evidence of not
     accepting the present situation of the living self-organized
     communities in Rog.
 
-[^06_36]: Second Chance, Rog Centre of Contemporary Arts (2013),
+[^07_Abram_S_The_Creative_Factory_FINAL_36]: Second Chance, Rog Centre of Contemporary Arts (2013),
     http://www.secondchanceproject.eu/wp/?page\_id=94
 
-[^06_37]: Ibid. Emphasis mine.
+[^07_Abram_S_The_Creative_Factory_FINAL_37]: Ibid. Emphasis mine.
 
-[^06_38]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
+[^07_Abram_S_The_Creative_Factory_FINAL_38]: David Harvey, *A Brief History of Neoliberalism*, Oxford: Oxford
     University Press, 2005, p.2.
 
-[^06_39]: Carlo Vercellone, *The New Articulation of Wages, Rent and Profit
+[^07_Abram_S_The_Creative_Factory_FINAL_39]: Carlo Vercellone, *The New Articulation of Wages, Rent and Profit
     in Cognitive Capitalism* (2008).
     http://halshs.archives-ouvertes.fr/docs/00/26/55/84/PDF/The\_new\_
     articulation\_of\_wagesHall1.pdf
 
-[^06_40]: Such intents were already detectable during the proposal to erect
+[^07_Abram_S_The_Creative_Factory_FINAL_40]: Such intents were already detectable during the proposal to erect
     the Centre of Contemporary Arts.
 
-[^06_41]: To give few examples of protest slogans coined by the popular
+[^07_Abram_S_The_Creative_Factory_FINAL_41]: To give few examples of protest slogans coined by the popular
     anger to be later embroidered: **“***gotof si*” (you are finished!),
     “*fertik je*” (it’s over), “*vse jih bomo nesli vun*” (we’ll take
     them all out), “*ulice so naše*” (the streets are ours), “*lopovi!*”
     (crooks!), “*moč ljudem, ne strankam*” (power to the people, not to
     parties).
 
-[^06_42]: Rog Centre Pilot Project. *Socialdress – Power to the People*
+[^07_Abram_S_The_Creative_Factory_FINAL_42]: Rog Centre Pilot Project. *Socialdress – Power to the People*
     (2013),
     http://www.roglab.si/en/fresh/2013/socialdress\_empowering\_people
 
-[^06_43]: Marija Mojca Pungerčar, ND (2013),
+[^07_Abram_S_The_Creative_Factory_FINAL_43]: Marija Mojca Pungerčar, ND (2013),
     http://www.3via.org/index.php?htm=mojca
 
-[^06_44]: MOL 2013.
+[^07_Abram_S_The_Creative_Factory_FINAL_44]: MOL 2013.
 
-[^06_45]: Ernst Bloch, ‘Building in Empty Spaces’, in Bloch, Ernst: *The
+[^07_Abram_S_The_Creative_Factory_FINAL_45]: Ernst Bloch, ‘Building in Empty Spaces’, in Bloch, Ernst: *The
     Utopian Function of Art and Literature* Cambridge, Massachusetts:
     MIT Press (1959/1996): 185-198.
 
-[^06_46]: The urbanistic taxidermy sparing the main factory outbuilding
+[^07_Abram_S_The_Creative_Factory_FINAL_46]: The urbanistic taxidermy sparing the main factory outbuilding
     will be performed because it falls under the cultural heritage
     protection (cf. The Institute for the Protection of Cultural
     Heritage of Slovenia 2008, 45).
 
-[^06_47]: The urban plans of MOL can be, to some extent, seen as the tactic
+[^07_Abram_S_The_Creative_Factory_FINAL_47]: The urban plans of MOL can be, to some extent, seen as the tactic
     response to the claims during the temporal occupation: the problem
     of empty premises, the lack of a clear strategy with Rog, the need
     of spaces for sociocultural production etc.
 
-[^06_48]: Marta Gregorčič, ‘Rog – presenečanja, iz katerih rojijo
+[^07_Abram_S_The_Creative_Factory_FINAL_48]: Marta Gregorčič, ‘Rog – presenečanja, iz katerih rojijo
     multitude.’ *Časopis za kritiko znanosti*, 34 / 223 (2006): 7-10.
