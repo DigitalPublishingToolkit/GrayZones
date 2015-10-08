@@ -73,8 +73,8 @@ html: $(allmarkdown)
 	pandoc md/tmp.md \
 		--from=markdown \
 		--to=html \
-		—-css=html/main.css \
-		-o html/$$html ; \
+		-s \
+                -o html/$$html ; \
 	done
 
 
