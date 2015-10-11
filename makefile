@@ -8,7 +8,7 @@ allmarkdown=$(filter-out md/book.md, $(shell ls md/*.md)) # TODO: add if, so tha
 markdowns_compound=compound_src.md
 epub=book.epub
 icmls=$(wildcard icml/*.icml)
-
+.PHONY: $(allmarkdown) #force rebuild  by making targets phony
 
 test: $(allmarkdown)
 	echo "start" ; 
@@ -71,12 +71,11 @@ html: $(allmarkdown)
 	pandoc md/tmp.md \
 		--from=markdown \
 		--to=html5 \
-		--css=web.style.css \
-		-o web/$$html ; \
-	echo web/$$html; \
+		--css=main.css \
+		-s \
+		-o html/$$html ; \
+	echo html/$$html ; \
 	done
-
-
 
 
 book.md: clean $(allmarkdown)
@@ -107,5 +106,5 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 clean:  # remove outputs
 	rm -f md/book.md  
 	rm -f book.epub 
-	rm -r web/*.html
+	rm -r html/*.html
 	rm -f *~ */*~  #emacs files
