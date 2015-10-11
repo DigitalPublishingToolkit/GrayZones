@@ -22,8 +22,8 @@ folders:
 	mkdir md/imgs/ ; \
 	mkdir icml/ ; \
 	mkdir lib/ ; \
-	mkdir scribus_html/ ;
-
+	mkdir scribus_html/ ; \
+	mkdir web ;
 
 markdowns:$(alldocx) # convert docx to md
 	for i in $(alldocx) ; \
@@ -64,6 +64,21 @@ scribus: $(allmarkdown)
 	done
 
 
+html: $(allmarkdown)
+	for i in $(allmarkdown) ; \
+	do html=`basename $$i .md`.html ; \
+	./scripts/md_stripmetada.py $$i > md/tmp.md ; \
+	pandoc md/tmp.md \
+		--from=markdown \
+		--to=html5 \
+		--css=web.style.css \
+		-o web/$$html ; \
+	echo web/$$html; \
+	done
+
+
+
+
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do ./scripts/md_stripmetada.py $$i >> md/book.md ; \
@@ -88,8 +103,9 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 #		--epub-embed-font=lib/UbuntuMono-B.ttf \
 
 
+
 clean:  # remove outputs
 	rm -f md/book.md  
 	rm -f book.epub 
+	rm -r web/*.html
 	rm -f *~ */*~  #emacs files
-
