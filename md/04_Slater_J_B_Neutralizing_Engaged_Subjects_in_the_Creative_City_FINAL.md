@@ -1,18 +1,18 @@
 ---
-Pr-id: MoneyLab
-P-id: INC Reader
-A-id: 10
+Pr-id: Grayzones
+P-id: INC TOD Reader
+A-id: 17
 Type: article
 Book-type: anthology
 Anthology item: article
 Item-id: unique no.
 Article-title: title of the article
 Article-status: accepted
-Author: name(s) of author(s)
+Author: Josephine Berry Slater
 Author-email:   corresponding address
 Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   50 keywords for search and indexing
+Abstract:   Article by Josie Slater for the Grayzones TOD
+Keywords:   Slater, Cities
 Rights: CC BY-NC 4.0
 ...
 
@@ -105,7 +105,7 @@ getting too distracted by the detail of his schema, what Foucault seizes
 on is how he draws together the problems of sovereignty with a set of
 specifically urban problematics. He writes,
 
-In short, the interesting thing is Le Maitre dreams of connecting the
+>In short, the interesting thing is Le Maitre dreams of connecting the
 political effectiveness of sovereignty to a spatial distribution. A good
 sovereign, be it a collective or individual sovereign, is someone well
 placed within a territory, and a territory that is well policed in terms
@@ -147,7 +147,7 @@ Borrowing the concept of ‘milieu’ from biology, and imposing it
 retrospectively onto the problem of city planning in this era of 17^th^
 century *Raison d’Etat*, Foucault continues,
 
-The milieu is a certain number of combined overall effects bearing on
+>The milieu is a certain number of combined overall effects bearing on
 all who live in it. It is an element in which a circular link is
 produced between effects and causes… More disease will obviously mean
 more deaths. More deaths will mean more cadavers and consequently more
@@ -225,7 +225,7 @@ single soul, and conversely, the single soul must be sacrificed for the
 salvation of the flock – an economy of souls in which every individual
 matters. With biopower, what we see is the state intervening only
 
-To regulate, or rather to allow the well-being, the interest of each to
+>To regulate, or rather to allow the well-being, the interest of each to
 adjust itself in such a way that it can actually serve all. The state is
 envisioned as the regulator of interests and no longer as the
 transcendent and synthetic principle of the transformation of the
@@ -331,7 +331,7 @@ who were subjected to discriminatory and heavy-handed policing, under
 ‘sus’ law – the police power to stop and search preemptively, purely on
 the basis of suspicion. Poet, Levi Tafari put it this way:
 
-Living inna Liverpool is living in hell look pon the places where we
+>Living inna Liverpool is living in hell look pon the places where we
 have fe dwell them have we under a political spell bad housing
 unemployment and the depression as well.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_7] (Tafari, L., 1989)
 
@@ -389,7 +389,7 @@ sovereignty’s permanent condition of operation within capitalism).[^04_Slater_
 Quoting Chemnitz, the 17^th^ century political theorist, Foucault
 describes the relationship of the state to its own laws thus:
 
-In fact, raison d’Etat must command, not by ‘sticking to the laws,’ but,
+>In fact, raison d’Etat must command, not by ‘sticking to the laws,’ but,
 if necessary, it must command ‘the laws themselves, which must adapt to
 the present state of the republic’. So, the coup d’Etat does not break
 with raison d’Etat. It is an element, an event, a way of doing things
@@ -410,7 +410,7 @@ maintaining control and boosting the co-operation and productive
 activity of its subjects. Speaking of the development of policing in the
 17^th^ century, during the emergence of raison d’Etat, Foucault writes,
 
-So with the police there is a circle that starts from the state as a
+>So with the police there is a circle that starts from the state as a
 power of rational and calculated intervention on individuals and comes
 back to the state as a growing set of forces, or forces to be developed,
 passing through the life of individuals, which will now be precious to
@@ -424,7 +424,7 @@ and control of the dense interactions between individuals, especially in
 the towns and cities. This concern for the individual’s ‘better than
 just living’ he writes,
 
-Must in some way be drawn on and constituted into state utility: making
+>Must in some way be drawn on and constituted into state utility: making
 men’s happiness the state’s utility, making men’s happiness the very
 strength of the state.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_11]
 
@@ -534,7 +534,7 @@ spectacle. Speaking of the wish to abolish the separation of active
 performers from passive spectators, or between the spaces of art and
 everyday life, in avant-garde theatre he says,
 
-But the redistribution of places is one thing; the requirement that
+>But the redistribution of places is one thing; the requirement that
 theatre assign itself the goal of assembling a community which ends the
 separation of the spectacle is quite another. The first involves the
 invention of new intellectual adventures, the second a new form of
@@ -545,7 +545,7 @@ Rejecting the self-imposed necessity of theatre to literalize the
 ‘community’ of spectators occupying the theatre at any one time,
 Rancière argues that, to the contrary,
 
-In a theatre, in front of a performance, just as in a museum, school or
+>In a theatre, in front of a performance, just as in a museum, school or
 street, there are only ever individuals plotting their own paths in the
 forest of things, acts and signs that confront or surround them.[^04_Slater_J_B_Neutralizing_Engaged_Subjects_in_the_Creative_City_FINAL_16]
 
