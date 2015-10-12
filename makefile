@@ -90,9 +90,10 @@ epub-ji: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epu
 		--to epub3 \
 		--self-contained \
 		--epub-chapter-level=1 \
+		--epub-embed-font=lib/Merriweather-Regular.otf \
+		--epub-embed-font=lib/Merriweather-Italic.otf \
+		--epub-embed-font=lib/Merriweather-Bold.otf \
 		--epub-stylesheet=../epub/styles.epub-ji.css \
-		--epub-embed-font=../lib/Merriweather-Regular.otf \
-		--epub-embed-font=../lib/Merriweather-Italic.otf \
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
