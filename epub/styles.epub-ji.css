@@ -2,7 +2,7 @@
     font-family: 'Merriweather-Bold';
     font-weight: bold;
     font-style: normal;
-    src:url(lib/'Merriweather-Bold.otf')format("opentype");
+    src:url('Merriweather-Bold.otf')format("opentype");
 }
 
 @font-face {
