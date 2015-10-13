@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Merriweather-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:url('Merriweather-Bold.otf')format("opentype");
+}
+
+@font-face {
+    font-family: 'Merriweather-BoldItalic';
+    font-weight: bold;
+    font-style: italic;
+    src:url('Merriweather-BoldItalic.otf')format("opentype");
+}
+
+body{
+    font-size:12pt;
+    background: white;
+    color: black;
+    font-family: sans;	
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather-Bold', ;
+    font-weight: bold;
+    hyphens: none !important;
+    -moz-hyphens: none !important;
+    -webkit-hyphens: none !important;
+    adobe-hyphenate: none !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+
+}
+
+div#cover-image{
+    text-align:center;
+}
+
+a.footnoteRef{
+    vertical-align: super;
+    line-height: normal;
+    font-size: 0.5em;
+}
+
+img {
+    max-width: 98%;
+    max-height: 98%;
+    width: auto;
+    height: auto;
+}
