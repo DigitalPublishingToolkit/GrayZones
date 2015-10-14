@@ -2,26 +2,51 @@
     font-family: 'Merriweather-Bold';
     font-weight: bold;
     font-style: normal;
-    src:url('Merriweather-Bold.otf')format("opentype");
+    src:url('../lib/Merriweather-Bold.otf')format("opentype");
 }
 
 @font-face {
     font-family: 'Merriweather-BoldItalic';
     font-weight: bold;
     font-style: italic;
-    src:url('Merriweather-BoldItalic.otf')format("opentype");
+    src:url('../lib/Merriweather-BoldItalic.otf')format("opentype");
+}
+
+@font-face {
+    font-family: 'Lato-Bold';
+    font-weight: bold;
+    font-style: normal;
+    src:url('../lib/Lato-Bold.otf')format("opentype");
+}
+
+@font-face {
+    font-family: 'Merriweather-Regular';
+    font-weight: normal;
+    font-style: normal;
+    src:url('../lib/Merriweather-Regular.otf')format("opentype");
+}
+
+@font-face {
+    font-family: 'Merriweather-Italic';
+    font-weight: normal;
+    font-style: italic;
+    src:url('../lib/Merriweather-Italic.otf')format("opentype");
 }
 
 body{
     font-size:12pt;
     background: white;
     color: black;
-    font-family: sans;	
+    font-family: 'Merriweather-Regular';
+    line-height: 200%;
+    margin-right: 30%;
+    margin-left: 10%;
+    text-align: justify;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Merriweather-Bold', ;
+    font-family: 'Lato-Bold', ;
     font-weight: bold;
     hyphens: none !important;
     -moz-hyphens: none !important;
@@ -31,7 +56,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-
+    color: #33CCFF;
+    text-transform: uppercase;
 }
 
 div#cover-image{
@@ -49,4 +75,12 @@ img {
     max-height: 98%;
     width: auto;
     height: auto;
+}
+
+li[id^="fn"] {
+        color: #33CCFF;
+}
+
+a {
+    color: #33CCFF;
 }
