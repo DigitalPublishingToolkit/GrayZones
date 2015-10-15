@@ -84,44 +84,6 @@ book.md: clean $(allmarkdown)
 	done
 
 
-epub-ji: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
-	cd md && pandoc \
-		--from markdown \
-		--to epub3 \
-		--self-contained \
-		--epub-chapter-level=1 \
-		--epub-embed-font=lib/Merriweather-Regular.otf \
-		--epub-embed-font=lib/Merriweather-Italic.otf \
-		--epub-embed-font=lib/Merriweather-Bold.otf \
-		--epub-stylesheet=../epub/styles.epub-ji.css \
-		--epub-cover-image=../epub/cover.jpg \
-		--epub-metadata=../epub/metadata.xml \
-		--default-image-extension png \
-		--toc-depth=1 \
-		-o ../book.epub \
-		book.md ; \
-		done
-
-
-epub-jjl: $(02_Castro_Gomez_The_Missing_Chapter.md) book.md epub/metadata.xml epub/styles.epub_JJL.css epub/cover.jpg
-	cd md && pandoc \
-		--from markdown \
-		--to epub3 \
-		--self-contained \
-		--epub-chapter-level=1 \
-		--epub-embed-font=lib/Merriweather-Regular.otf \
-		--epub-embed-font=lib/Merriweather-Italic.otf \
-		--epub-embed-font=lib/Merriweather-Bold.otf \
-		--epub-stylesheet=../epub/styles.epub_JJL.css \
-		--epub-cover-image=../epub/cover.jpg \
-		--epub-metadata=../epub/metadata.xml \
-		--default-image-extension png \
-		--toc-depth=1 \
-		-o ../book.epub \
-		book.md ; \
-		done		
-
-
 epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
 	cd md && pandoc \
 		--from markdown \
