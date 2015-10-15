@@ -17,9 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-*Introduction*
+# Introduction
+<span class="title">The Gray Zones of Creativity and Capital</span>
 
-## THE GRAY ZONES OF CREATIVITY AND CAPITAL
+
 
 The initial idea that led to the preparation of this publication was not
 a reflection of the editors’ wish to merely add another publication

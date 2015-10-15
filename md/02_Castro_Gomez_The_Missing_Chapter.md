@@ -17,9 +17,10 @@ Rights: CC BY-NC 4.0
 ...
 
 
-Santiago Castro-Gómez
 
-## THE MISSING CHAPTER OF EMPIRE
+# The Missing Chapter of Empire
+
+<span class="author">Santiago Castro-Gómez</span>
 
 *Postmodern reorganization of coloniality and post-Fordist
 capitalism*[^02_Castro_Gomez_The_Missing_Chapter_1]
@@ -77,9 +78,8 @@ manifested in the genealogy of Empire by H/N. Finally, I will come to a
 case study that serves as an example of what constitutes the postmodern
 reorganization of coloniality in Empire.
 
-## 
 
-### The era of empire
+## The era of empire
 
 The general thesis of H/N is that both imperialism and colonialism have
 reached their end because they are both specifically modern devices of
@@ -221,9 +221,8 @@ have acquired another form. There are inequalities now that do not have
 an imperialist form because both imperialism and colonialism become
 obstacles for the expansion of capital (Hardt & Negri 2001, p. 323).
 
-## 
 
-### The darker side of the force
+## The darker side of the force
 
 I want to propose a critique of H/N that salvages some elements of their
 theory of postmodern capitalism, but which also points to the
@@ -391,9 +390,7 @@ concept of Empire created by H/N, I will show how coloniality does not
 disappear in postmodern capitalism, but is reorganized in a postcolonial
 way.
 
-## 
-
-### The (post)coloniality of power
+## The (post)coloniality of power
 
 The question I want to answer in this final part is the following: what
 happens in the moment in which immaterial production -no longer the
@@ -816,9 +813,8 @@ the common good rather than in the needs of capital. Perhaps then and
 only then, can we move forward towards a world in which many other
 worlds would be possible.
 
-##  {#section-4}
 
-### Notes
+## Notes
 
 [^02_Castro_Gomez_The_Missing_Chapter_1]: This paper was previously published in Spanish in *La
     poscolonialidad explicada a los niños*, Editorial Universidad del
