@@ -85,7 +85,7 @@ book.md: clean $(allmarkdown)
 
 
 epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
-	cd md && pandoc \
+	cd md && pandoc book.md  \
 		--from markdown \
 		--to epub3 \
 		--self-contained \
@@ -95,8 +95,7 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
-		-o ../book.epub \
-		book.md ; \
+		-o ../book.epub ; \
 		done
 #include line, if you wanto embed font:
 #		--epub-embed-font=lib/UbuntuMono-B.ttf \
