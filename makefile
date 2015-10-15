@@ -96,10 +96,10 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--default-image-extension png \
 		--toc-depth=1 \
 		-o ../book.epub ; \
-	done
-#include line, if you wanto embed font:
-#		--epub-embed-font=lib/UbuntuMono-B.ttf \
+		
 
+foo: 
+	cd md & touch foo ; \
 
 
 clean:  # remove outputs
