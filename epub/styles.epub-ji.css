@@ -2,20 +2,20 @@
     font-family: 'Merriweather-Bold';
     font-weight: bold;
     font-style: normal;
-    src:url('Merriweather-Bold.otf')format("opentype");
+    src:url('../lib/Merriweather-Bold.otf')format("opentype");
 }
 
 @font-face {
     font-family: 'Merriweather-BoldItalic';
     font-weight: bold;
     font-style: italic;
-    src:url('Merriweather-BoldItalic.otf')format("opentype");
+    src:url('../lib/Merriweather-BoldItalic.otf')format("opentype");
 }
 
 @font-face {
     font-family: 'Merriweather-Regular';
     font-weight: normal;
-    src:url('Merriweather-Regular.otf')format("opentype");
+    src:url('../lib/Merriweather-Regular.otf')format("opentype");
 }
 
 body{
