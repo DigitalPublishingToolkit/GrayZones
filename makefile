@@ -48,6 +48,7 @@ icmls: $(allmarkdown)
 		--from=markdown \
 		--to=icml \
 		--self-contained \
+		--from markdown-yaml_metadata_block \
 		-o $$icml ; \
 	done
 
@@ -94,6 +95,10 @@ epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css epub/c
 		--epub-cover-image=../epub/cover.jpg \
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
+		--epub-embed-font=../lib/VAGRoundedStd-Black.otf \
+		--epub-embed-font=../lib/VAGRoundedStd-Bold.otf \
+		--epub-embed-font=../lib/VAGRoundedStd-Light.otf \
+		--epub-embed-font=../lib/VAGRoundedStd-Thin.otf \
 		--toc-depth=1 \
 		-o ../book.epub ; \
 		
